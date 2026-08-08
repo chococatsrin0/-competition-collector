@@ -30,7 +30,7 @@ class TestLeaderboard(unittest.TestCase):
         self.assertEqual(rows[0].rank, 1)
         self.assertEqual(rows[0].user_name, "关山飞渡")
         self.assertEqual(rows[0].trading_volume_usd, 38254101.76539)
-        # 页面级 updatedTime 优先：应取 resourceSummaryList.updatedTime
+        # 页面级 updatedTime 优先：应取 data 顶层的 updatedTime
         from datetime import datetime as dt
 
         self.assertEqual(
@@ -47,9 +47,10 @@ class TestLeaderboard(unittest.TestCase):
         self.assertNotEqual(d["系统更新时间"], d["采集时间"])
 
     def test_row_level_updated_time_fallback(self):
-        # 无页面级 updatedTime 时，回退使用行级 updatedTime
+        # 无 data 顶层 updatedTime 时，回退使用行级 updatedTime
         page = json.loads(json.dumps(self.page_data))
-        page["data"]["resourceSummaryList"].pop("updatedTime")
+        page["data"].pop("updatedTime")
+        page["data"]["resourceSummaryList"]["data"][0]["updatedTime"] = 1786700000000
         with mock.patch("src.leaderboard.post_json", return_value=page):
             rows = collect_leaderboard(100016875, collected_at=datetime(2026, 8, 8, 14, 30, tzinfo=BEIJING_TZ))
         # 行级 updatedTime = 1786700000000，应被解析

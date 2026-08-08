@@ -58,7 +58,13 @@ def fetch_leaderboard_page(resource_id: int, page_index: int = 1, page_size: int
             "pageSize": page_size,
         },
     )
-    return data.get("data", {}).get("resourceSummaryList") or {}
+    root = data.get("data", {})
+    lb = root.get("resourceSummaryList") or {}
+    # 页面级统计字段位于 data 顶层（前端从 data.updatedTime 读取），
+    # 合并进返回结构，供 collect_leaderboard 解析系统更新时间
+    if root.get("updatedTime") is not None:
+        lb["updatedTime"] = root["updatedTime"]
+    return lb
 
 
 def collect_leaderboard(
