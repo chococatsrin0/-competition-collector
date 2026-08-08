@@ -38,9 +38,14 @@ class TestLeaderboard(unittest.TestCase):
             dt.fromtimestamp(1786620000, tz=BEIJING_TZ),
         )
         self.assertEqual(rows[1].system_updated_at, rows[0].system_updated_at)
+        # 参与人数 / 总交易量来自 data 顶层
+        self.assertEqual(rows[0].eligible_user_count, 2)
+        self.assertEqual(rows[0].eligible_trading_volume, 123.45)
         d = rows[0].to_csv_dict()
         self.assertEqual(d["排名"], 1)
         self.assertIn("2026-08-08", d["采集时间"])
+        self.assertEqual(d["参与人数"], 2)
+        self.assertEqual(d["总交易量USD"], "123.45")
         # 系统更新时间列应使用接口时间，而非采集时间
         expected_str = rows[0].system_updated_at.astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M:%S %z")
         self.assertEqual(d["系统更新时间"], expected_str)

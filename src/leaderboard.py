@@ -22,6 +22,8 @@ class LeaderboardRow:
     trading_volume_usd: float
     collected_at: datetime
     system_updated_at: datetime | None
+    eligible_user_count: int | None = None
+    eligible_trading_volume: float | None = None
 
     def to_csv_dict(self) -> dict:
         return {
@@ -30,6 +32,8 @@ class LeaderboardRow:
             "交易量USD": f"{self.trading_volume_usd:.2f}",
             "采集时间": _iso(self.collected_at),
             "系统更新时间": _iso(self.system_updated_at) if self.system_updated_at else _iso(self.collected_at),
+            "参与人数": self.eligible_user_count if self.eligible_user_count is not None else "",
+            "总交易量USD": f"{self.eligible_trading_volume:.2f}" if self.eligible_trading_volume is not None else "",
         }
 
 
@@ -61,9 +65,10 @@ def fetch_leaderboard_page(resource_id: int, page_index: int = 1, page_size: int
     root = data.get("data", {})
     lb = root.get("resourceSummaryList") or {}
     # 页面级统计字段位于 data 顶层（前端从 data.updatedTime 读取），
-    # 合并进返回结构，供 collect_leaderboard 解析系统更新时间
-    if root.get("updatedTime") is not None:
-        lb["updatedTime"] = root["updatedTime"]
+    # 合并进返回结构，供 collect_leaderboard 解析系统更新时间与参与统计
+    for key in ("updatedTime", "eligibleUserCount", "eligibleTradingVolume"):
+        if root.get(key) is not None:
+            lb[key] = root[key]
     return lb
 
 
@@ -83,6 +88,8 @@ def collect_leaderboard(
     total = int(first.get("total") or 0)
     # 页面级 updatedTime：排行榜数据同步时间（接口对部分场景返回，优先于行级）
     page_updated_at = system_updated_at_override or _parse_epoch_ms(first.get("updatedTime"))
+    eligible_user_count = first.get("eligibleUserCount")
+    eligible_trading_volume = first.get("eligibleTradingVolume")
     page_size = first.get("pageSize") or LEADERBOARD_PAGE_SIZE
     total_pages = max(1, (total + page_size - 1) // page_size) if total else 1
     total_pages = min(total_pages, max_pages)
@@ -113,6 +120,8 @@ def collect_leaderboard(
                     # 优先级：页面级 > 行级，
                     # 为空时 CSV 层回退为采集时间
                     system_updated_at=page_updated_at or _parse_epoch_ms(item.get("updatedTime")),
+                    eligible_user_count=eligible_user_count,
+                    eligible_trading_volume=eligible_trading_volume,
                 )
             )
     logger.info("  排行榜采集完成: 共 %d 行", len(rows))

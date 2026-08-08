@@ -68,4 +68,12 @@ DATA_ROOT = "data"
 LEADERBOARD_DIR = "data/leaderboard"
 
 # CSV 列
-CSV_COLUMNS = ["排名", "用户名称", "交易量USD", "采集时间", "系统更新时间"]
+CSV_COLUMNS = [
+    "排名",
+    "用户名称",
+    "交易量USD",
+    "采集时间",
+    "系统更新时间",
+    "参与人数",
+    "总交易量USD",
+]
