@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 from datetime import timedelta, timezone
 
 # 北京时间（东八区固定偏移，无夏令时）
@@ -10,6 +11,11 @@ BEIJING_TZ = timezone(timedelta(hours=8), name="Asia/Shanghai")
 # Binance 站点
 BINANCE_BASE_URL = "https://www.binance.com"
 SUFFIX_ORIGIN = "binance.com"
+
+# 可选：从哪个域名捕获「系统更新时间」（页面级 updatedTime）。
+# 官方域名 www.binance.com 不返回该字段；第三方镜像（如用户提供的加速域名）在
+# 真实页面请求时会返回。默认 None = 不启用；可用环境变量 BINANCE_UPDATED_TIME_HOST 覆盖。
+UPDATED_TIME_HOST = os.environ.get("BINANCE_UPDATED_TIME_HOST") or None
 
 # 公告分类：93 = 币安最新活动
 ANNOUNCEMENT_CATALOG_ID = 93

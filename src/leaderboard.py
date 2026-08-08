@@ -66,6 +66,7 @@ def collect_leaderboard(
     collected_at: datetime | None = None,
     max_pages: int = 1000,
     workers: int = 4,
+    system_updated_at_override: datetime | None = None,
 ) -> list[LeaderboardRow]:
     """分页采集完整排行榜（并发拉取，按页序合并）"""
     collected_at = collected_at or datetime.now(tz=BEIJING_TZ)
@@ -75,7 +76,7 @@ def collect_leaderboard(
         return []
     total = int(first.get("total") or 0)
     # 页面级 updatedTime：排行榜数据同步时间（接口对部分场景返回，优先于行级）
-    page_updated_at = _parse_epoch_ms(first.get("updatedTime"))
+    page_updated_at = system_updated_at_override or _parse_epoch_ms(first.get("updatedTime"))
     page_size = first.get("pageSize") or LEADERBOARD_PAGE_SIZE
     total_pages = max(1, (total + page_size - 1) // page_size) if total else 1
     total_pages = min(total_pages, max_pages)

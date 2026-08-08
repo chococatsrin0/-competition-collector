@@ -56,6 +56,17 @@ class TestLeaderboard(unittest.TestCase):
         self.assertIsNotNone(rows[0].system_updated_at)
         self.assertEqual(rows[0].system_updated_at.timestamp(), 1786700000)
 
+    def test_override_system_updated_time(self):
+        override = datetime(2026, 8, 8, 22, 59, 59, tzinfo=BEIJING_TZ)
+        with mock.patch("src.leaderboard.post_json", return_value=self.page_data):
+            rows = collect_leaderboard(
+                100016875,
+                collected_at=datetime(2026, 8, 8, 14, 30, tzinfo=BEIJING_TZ),
+                system_updated_at_override=override,
+            )
+        self.assertEqual(rows[0].system_updated_at, override)
+        self.assertEqual(rows[1].system_updated_at, override)
+
 
 if __name__ == "__main__":
     unittest.main()

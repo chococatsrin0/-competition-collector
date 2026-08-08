@@ -6,7 +6,7 @@ import logging
 from datetime import datetime, timedelta
 
 from .activity import resolve_activity_url
-from .config import BEIJING_TZ, COLLECT_GRACE_HOURS, RECENT_DAYS
+from .config import BEIJING_TZ, COLLECT_GRACE_HOURS, RECENT_DAYS, UPDATED_TIME_HOST
 from .csv_writer import write_leaderboard_csv
 from .discover import Competition, discover_competitions
 from .leaderboard import collect_leaderboard
@@ -51,7 +51,19 @@ def collect_one(competition: Competition, collected_at: datetime | None = None) 
         )
         return None
 
-    rows = collect_leaderboard(meta.main_resource_id, collected_at=collected_at)
+    # 可选：从配置的网关域名捕获页面级「系统更新时间」（官方域名不返回该字段）
+    updated_override = None
+    if UPDATED_TIME_HOST:
+        from .browser_fetcher import capture_system_updated_time
+
+        updated_override = capture_system_updated_time(activity_url, UPDATED_TIME_HOST)
+        logger.info("捕获到系统更新时间: %s", updated_override)
+
+    rows = collect_leaderboard(
+        meta.main_resource_id,
+        collected_at=collected_at,
+        system_updated_at_override=updated_override,
+    )
     logger.info("采集到 %d 条排行榜数据", len(rows))
     if not rows:
         logger.warning("排行榜为空: %s", competition.title)

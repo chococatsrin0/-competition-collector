@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import atexit
+from datetime import datetime
+from urllib.parse import urlsplit, urlunsplit
 
 from .http_client import WafChallengeError
 
@@ -81,3 +83,54 @@ def fetch_html_via_browser(url: str, wait_ms: int = 8000) -> str:
             return last_html
         close_browser()
     return last_html
+
+
+def capture_system_updated_time(activity_url: str, host: str) -> datetime | None:
+    """在真实页面请求中捕获排行榜接口的页面级 updatedTime。
+
+    官方域名不返回该字段，只有部分网关（第三方镜像）在页面请求时返回。
+    通过打开活动页主奖池子页面并监听 resource/summary/list 响应获得。
+    """
+    parts = urlsplit(activity_url)
+    url = urlunsplit((parts.scheme, host, parts.path.rstrip("/") + "/Main-Reward", "", ""))
+
+    _, context = _get_browser()
+    page = context.new_page()
+    updated: datetime | None = None
+
+    def on_response(res) -> None:
+        nonlocal updated
+        if "resource/summary/list" not in res.url:
+            return
+        try:
+            obj = res.json()
+            lb = obj.get("data", {}).get("resourceSummaryList") or {}
+            ms = lb.get("updatedTime")
+            if ms:
+                from .config import BEIJING_TZ
+
+                updated = datetime.fromtimestamp(int(ms) / 1000, tz=BEIJING_TZ)
+        except Exception:
+            pass
+
+    page.on("response", on_response)
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(8000)
+        if updated is None:
+            # 页面未自动请求时，点击主奖池页签触发
+            try:
+                page.evaluate(
+                    """() => {
+                        const els = [...document.querySelectorAll('button, [role="tab"], a, div, span')]
+                        const el = els.find((e) =>
+                            (e.textContent || '').trim().startsWith('主奖池') && e.offsetParent !== null)
+                        if (el) el.click()
+                    }"""
+                )
+                page.wait_for_timeout(4000)
+            except Exception:
+                pass
+    finally:
+        page.close()
+    return updated
