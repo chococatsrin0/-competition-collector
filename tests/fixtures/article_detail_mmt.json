@@ -1,0 +1,10 @@
+{
+  "code": "000000",
+  "message": null,
+  "data": {
+    "id": 281842,
+    "title": "MMT Trading Tournament: Trade to Share Up to 2,000,000 MMT Token Vouchers",
+    "body": "{\"node\":\"root\",\"child\":[{\"node\":\"element\",\"tag\":\"p\",\"child\":[{\"node\":\"text\",\"text\":\"Binance Spot is excited to launch the MMT Trading Tournament.\"}]},{\"node\":\"element\",\"tag\":\"a\",\"attr\":{\"data-bn-type\":\"button\",\"href\":\"https://www.%suffixOrigin%/activity/trading-competition/spot-altcoin-festival-wave-MMT\",\"target\":\"_blank\",\"rel\":[\"noopener\",\"noreferrer\",\"nofollow\"],\"position\":\"center\",\"appurl\":\"\",\"role\":\"button\"},\"child\":[{\"node\":\"text\",\"text\":\"Join Now\"}]},{\"node\":\"element\",\"tag\":\"a\",\"attr\":{\"target\":\"_blank\",\"href\":\"https://www.%suffixOrigin%/rewards-hub\"},\"child\":[{\"node\":\"text\",\"text\":\"Rewards Hub\"}]},{\"node\":\"element\",\"tag\":\"p\",\"child\":[{\"node\":\"text\",\"text\":\"Campaign period: 2026-08-06 18:00 to 2026-08-13 18:00 (UTC+8)\"}]}]}"
+  },
+  "success": true
+}

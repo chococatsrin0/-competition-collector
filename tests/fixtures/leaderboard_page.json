@@ -1,0 +1,41 @@
+{
+  "code": "000000",
+  "message": null,
+  "data": {
+    "myResourceSummary": null,
+    "resourceSummaryList": {
+      "pageIndex": 1,
+      "pageSize": 100,
+      "total": 2,
+      "data": [
+        {
+          "resourceId": 100016875,
+          "type": "ADVANCED_LEADERBOARD",
+          "userId": "15****76",
+          "sequence": 1,
+          "mine": false,
+          "updatedTime": null,
+          "hitRisk": false,
+          "grade": 38254101.76539,
+          "nickName": "关山飞渡",
+          "tradingVolume": 38254101.76539,
+          "optInId": "mNHBCLbYDyRr"
+        },
+        {
+          "resourceId": 100016875,
+          "type": "ADVANCED_LEADERBOARD",
+          "userId": "11****97",
+          "sequence": 2,
+          "mine": false,
+          "updatedTime": null,
+          "hitRisk": false,
+          "grade": 35168694.72824,
+          "nickName": "VNBACK",
+          "tradingVolume": 35168694.72824,
+          "optInId": "MnIXgoaZsVudSoUDiOpzJ4JcVi6RWTtdD5PKScAxKFLdnxQ"
+        }
+      ]
+    }
+  },
+  "success": true
+}

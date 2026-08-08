@@ -1,0 +1,1929 @@
+{
+  "dynamicIds": [
+    51169,
+    58139,
+    16451,
+    34026,
+    78590,
+    12264,
+    19418,
+    67228,
+    32276,
+    10126,
+    68666,
+    44660,
+    90002,
+    57782,
+    80895,
+    48147,
+    38110,
+    61513,
+    62092,
+    27707,
+    86000,
+    76486,
+    93810,
+    41361,
+    55039,
+    87555,
+    51262,
+    54004,
+    6106,
+    28474,
+    72841,
+    28220,
+    87851,
+    34042,
+    96082,
+    72386,
+    89761,
+    73269,
+    26364,
+    89639,
+    27229,
+    92281,
+    52132,
+    27226,
+    37476,
+    46898,
+    37183,
+    56783,
+    28848,
+    38868,
+    26381,
+    37403,
+    93955,
+    71280,
+    93806,
+    13990,
+    18623,
+    40583,
+    31353,
+    69428,
+    79543,
+    51565,
+    58854,
+    58953,
+    55357,
+    2722,
+    99410,
+    66043,
+    31309,
+    92230,
+    17144,
+    60594,
+    70803,
+    42887,
+    55697,
+    48401,
+    18763,
+    85394,
+    17387,
+    99821,
+    12923,
+    27577,
+    32752,
+    4298,
+    55135,
+    21969,
+    10588,
+    59109,
+    582,
+    13710,
+    73109,
+    7059,
+    82009,
+    77330,
+    87017,
+    33227,
+    45397,
+    95174,
+    74197,
+    72772,
+    40367,
+    17238,
+    41772,
+    57366,
+    19543,
+    25391,
+    17869,
+    41344,
+    4782,
+    20257,
+    28584,
+    98408,
+    13663,
+    93853,
+    58758,
+    69042,
+    32848,
+    24689,
+    13247,
+    47274,
+    46027,
+    78571,
+    73821,
+    6,
+    39716,
+    27968,
+    95034,
+    22674,
+    29125,
+    71469,
+    61201,
+    1379,
+    88068,
+    80,
+    53001,
+    10719,
+    75366,
+    8783,
+    8746,
+    65242,
+    57892,
+    62146,
+    51402,
+    95468,
+    80323,
+    13231,
+    14120,
+    15038,
+    96434,
+    90876,
+    62133,
+    76248,
+    80658,
+    58459,
+    64953,
+    29097,
+    415,
+    61956,
+    52180,
+    975,
+    50140,
+    23796,
+    51064,
+    95860,
+    96136,
+    73833,
+    41153,
+    12089,
+    48682,
+    72343,
+    35689,
+    34347,
+    31123,
+    72902,
+    88993,
+    6206,
+    71829,
+    52282,
+    57889,
+    56399,
+    12032,
+    67456,
+    31490,
+    85275,
+    88498,
+    98896,
+    81371,
+    10975,
+    29962,
+    6430,
+    58199,
+    26538,
+    28884,
+    72509,
+    41878,
+    64210,
+    56200,
+    87956,
+    41013,
+    67703,
+    37722,
+    3244,
+    51287,
+    99559,
+    16797,
+    41418,
+    78028,
+    1684,
+    53079,
+    28705,
+    68020,
+    73732,
+    1361,
+    66870,
+    12049,
+    40343,
+    31303,
+    42985,
+    25250,
+    11167,
+    99126,
+    46691,
+    55882,
+    7229,
+    30072,
+    65597,
+    19213,
+    99685,
+    62376,
+    58357,
+    63645,
+    44924,
+    64764,
+    80907,
+    66403,
+    5773,
+    89417,
+    34991,
+    68853,
+    18774,
+    34628,
+    7961,
+    73802,
+    27535,
+    67586,
+    77845,
+    53956,
+    40772,
+    1017,
+    18078,
+    79735,
+    89212,
+    42072,
+    48568,
+    17443,
+    70190,
+    86735,
+    51891,
+    85698,
+    80053,
+    61992,
+    41544,
+    67333,
+    71861,
+    26465,
+    30577,
+    79772,
+    22576,
+    8033,
+    97620,
+    84445,
+    92250,
+    18925,
+    31432,
+    43243,
+    80108,
+    39335,
+    48641,
+    83137,
+    75942,
+    97269,
+    12573,
+    84015,
+    57830,
+    89202,
+    98895,
+    60756,
+    54376,
+    17080,
+    45197,
+    51735,
+    81383,
+    59528,
+    65541,
+    13270,
+    3744,
+    85893,
+    75122,
+    56214,
+    87967,
+    54663,
+    21283,
+    4625,
+    13516,
+    54683,
+    12290,
+    95204,
+    25224,
+    84037,
+    40678,
+    40759,
+    52583,
+    92266,
+    96227,
+    55375,
+    94065,
+    70028,
+    84817,
+    81223,
+    65481,
+    18944,
+    46002,
+    5951,
+    58986,
+    78659,
+    31813,
+    53544,
+    46598,
+    48581,
+    83622,
+    88623,
+    13673,
+    72201,
+    85809,
+    19525,
+    22902,
+    73556,
+    15040,
+    49575,
+    51575,
+    31253,
+    56261,
+    13865,
+    81852,
+    54042,
+    12720,
+    35297,
+    59071,
+    48523,
+    27962,
+    36882,
+    18541,
+    61535,
+    19716,
+    52874,
+    91561,
+    90471,
+    45440,
+    21729,
+    65703,
+    42639,
+    91330,
+    26054,
+    44188,
+    66283,
+    46765,
+    44181,
+    7894,
+    25501,
+    1255,
+    85770,
+    60648,
+    1952,
+    88616,
+    3875,
+    72110,
+    10752,
+    65926,
+    61854,
+    74811,
+    92809,
+    57858,
+    30258,
+    22989,
+    96586,
+    6573,
+    20681,
+    20569,
+    71293,
+    29175,
+    86333,
+    88100,
+    21934,
+    42917,
+    11332,
+    71759,
+    72078,
+    72917,
+    8936,
+    88705,
+    90656,
+    29682,
+    38024,
+    12709,
+    10518,
+    29801,
+    3022,
+    98711,
+    12252,
+    78638,
+    42144,
+    25370,
+    65855,
+    49965,
+    94749,
+    2224,
+    96797,
+    73846,
+    74951,
+    66880,
+    62702,
+    30953,
+    94768,
+    25795,
+    73162,
+    45544,
+    18651,
+    34084,
+    41008,
+    69138,
+    82931,
+    36184,
+    15710,
+    89805,
+    77126,
+    43619,
+    84905,
+    64780,
+    43974,
+    38632,
+    19223,
+    33537,
+    46782,
+    55645,
+    98888,
+    95416,
+    1492,
+    71070
+  ],
+  "ssr": true,
+  "appState": {
+    "error": {
+      "error": null
+    },
+    "loader": {
+      "dataByRouteId": {
+        "c3d6": {
+          "pageProps": {
+            "pathname": "/activity/trading-competition/spot-altcoin-festival-wave-MMT",
+            "locale": "zh-CN"
+          }
+        },
+        "de25": {
+          "origin": "https://www.binance.com",
+          "path": "/zh-CN/activity/trading-competition/spot-altcoin-festival-wave-MMT",
+          "host": "https://www.binance.com",
+          "metaData": {
+            "title": "MMT现货交易竞赛",
+            "description": "瓜分 2,000,000 MMT 奖励",
+            "ogImage": null,
+            "ogUrl": "https://www.binance.com/zh-CN/activity/trading-competition/spot-altcoin-festival-wave-MMT",
+            "noIndex": false,
+            "noFollow": false
+          },
+          "activityGroup": {
+            "id": 100016874,
+            "code": "spot-altcoin-festival-wave-MMT",
+            "type": "TRADING_COMPETITION_ACTIVITY_GROUP",
+            "status": "PUBLISHED",
+            "publishedTime": 1786010400000,
+            "taskExpiredTime": 1786615200000,
+            "unpublishedTime": 1786615200000,
+            "referenceResourceIdList": [],
+            "globalContent": {
+              "trackSource": "GRO-TRA-spot-altcoin-festival-wave-MMT",
+              "uri": "/activity/trading-competition/spot-altcoin-festival-wave-MMT",
+              "disabledUrl": null,
+              "defaultLanguage": "en",
+              "languageList": [
+                "en",
+                "zh-CN",
+                "zh-TC"
+              ],
+              "redirectLanguageList": null,
+              "userGroupList": [
+                {
+                  "type": "GROWTH",
+                  "id": "DEFAULT_USER_GROUP",
+                  "name": null
+                }
+              ],
+              "btsLanguageList": [],
+              "btsJobList": [
+                {
+                  "id": 50400,
+                  "name": "2026-02-25_growth-platform_1772001444799",
+                  "stringIdList": [
+                    543700,
+                    543701,
+                    543702,
+                    543703,
+                    543704,
+                    543705,
+                    543706,
+                    543707,
+                    543708,
+                    543709,
+                    543710,
+                    543711,
+                    543712,
+                    543713,
+                    543714,
+                    543715,
+                    543716,
+                    543717,
+                    543718,
+                    543719,
+                    543720,
+                    543721
+                  ]
+                }
+              ],
+              "evergreenMode": null,
+              "distributionReminderId": null,
+              "themisFeatureGateName": null,
+              "participantsThreshold": null,
+              "activityGroup": {
+                "enabled": false,
+                "groupList": []
+              },
+              "badgeEnabled": null,
+              "milestoneEnabled": null
+            },
+            "i18nContent": {
+              "homepage": {
+                "title": "首页",
+                "backgroundColor": "#000000",
+                "seoContent": {
+                  "title": "MMT现货交易竞赛",
+                  "description": "瓜分 2,000,000 MMT 奖励",
+                  "logo": {
+                    "lightThumbnailUrl": null,
+                    "lightSmallUrl": null,
+                    "lightMediumUrl": null,
+                    "lightLargeUrl": null,
+                    "lightExtraLargeUrl": null,
+                    "darkThumbnailUrl": null,
+                    "darkSmallUrl": null,
+                    "darkMediumUrl": null,
+                    "darkLargeUrl": null,
+                    "darkExtraLargeUrl": null
+                  },
+                  "image": {
+                    "lightThumbnailUrl": null,
+                    "lightSmallUrl": null,
+                    "lightMediumUrl": null,
+                    "lightLargeUrl": null,
+                    "lightExtraLargeUrl": null,
+                    "darkThumbnailUrl": null,
+                    "darkSmallUrl": null,
+                    "darkMediumUrl": null,
+                    "darkLargeUrl": null,
+                    "darkExtraLargeUrl": null
+                  }
+                },
+                "heroBannerContent": {
+                  "show": false,
+                  "title": "MMT交易量锦标赛",
+                  "subtitle": "瓜分 2,000,000 MMT 奖励",
+                  "trainingCourseUrl": null,
+                  "keyVisualImageMobile": null,
+                  "keyVisualImagePc": null,
+                  "showOptIn": true,
+                  "beforeOptInButton": {
+                    "type": "OPT_IN",
+                    "customText": null,
+                    "customUrl": null
+                  },
+                  "afterOptInButton": {
+                    "type": "CUSTOM_TEXT",
+                    "customText": "立即交易",
+                    "customUrl": "https://app.binance.com/trade/MMT_USDT?_dp=L3RyYWRlL3RyYWRlP2F0PXNwb3Qmc3ltYm9sPW1tdHVzZHQ",
+                    "customAppUrl": null
+                  },
+                  "backgroundImage": {
+                    "lightThumbnailUrl": null,
+                    "lightSmallUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/d23b842c-3f54-4056-8e03-a1a15b3d4120.png",
+                    "lightMediumUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/505d7ce8-0857-4240-97c0-ac4e138e97cd.png",
+                    "lightLargeUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/471ff536-ddc4-4fbd-a6fb-a804a9e7f0d1.png",
+                    "lightExtraLargeUrl": null,
+                    "darkThumbnailUrl": null,
+                    "darkSmallUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/d23b842c-3f54-4056-8e03-a1a15b3d4120.png",
+                    "darkMediumUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/505d7ce8-0857-4240-97c0-ac4e138e97cd.png",
+                    "darkLargeUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/471ff536-ddc4-4fbd-a6fb-a804a9e7f0d1.png",
+                    "darkExtraLargeUrl": null
+                  },
+                  "logo": {
+                    "lightThumbnailUrl": null,
+                    "lightSmallUrl": null,
+                    "lightMediumUrl": null,
+                    "lightLargeUrl": null,
+                    "lightExtraLargeUrl": null,
+                    "darkThumbnailUrl": null,
+                    "darkSmallUrl": null,
+                    "darkMediumUrl": null,
+                    "darkLargeUrl": null,
+                    "darkExtraLargeUrl": null
+                  },
+                  "showPeriod": true,
+                  "overrideStartTime": null,
+                  "overrideEndTime": null
+                },
+                "statisticsSectionContent": {
+                  "show": false,
+                  "title": "交易量锦标赛：总交易量",
+                  "subtitle": "交易量计算包括买入和卖出订单",
+                  "buttonText": null,
+                  "buttonUrl": null,
+                  "statisticList": [
+                    {
+                      "title": "交易量（USD）",
+                      "type": "ELIGIBLE_TRADING_VOLUME",
+                      "value": null,
+                      "image": {
+                        "lightThumbnailUrl": null,
+                        "lightSmallUrl": "https://bin.bnbstatic.com/static/images/activity/trading-competition/v2/default-eligible-trading-volume.png",
+                        "lightMediumUrl": null,
+                        "lightLargeUrl": null,
+                        "lightExtraLargeUrl": null,
+                        "darkThumbnailUrl": null,
+                        "darkSmallUrl": "https://bin.bnbstatic.com/static/images/activity/trading-competition/v2/default-eligible-trading-volume.png",
+                        "darkMediumUrl": null,
+                        "darkLargeUrl": null,
+                        "darkExtraLargeUrl": null
+                      }
+                    }
+                  ]
+                },
+                "prizePoolInformationContent": {
+                  "show": true,
+                  "title": "总奖池",
+                  "totalPrizeAmount": "2,000,000 MMT",
+                  "prizeList": [
+                    {
+                      "title": "主奖池",
+                      "amount": "1,600,000",
+                      "token": "MMT"
+                    },
+                    {
+                      "title": "限时奖池",
+                      "amount": "400,000",
+                      "token": "MMT"
+                    }
+                  ],
+                  "backgroundImage": null
+                },
+                "highlightsContent": {
+                  "show": false,
+                  "highlightList": null,
+                  "title": null,
+                  "subtitle": null,
+                  "buttonText": null,
+                  "buttonUrl": null,
+                  "keyVisualImage": null
+                },
+                "listingContent": {
+                  "show": false,
+                  "title": null,
+                  "campaignList": null
+                },
+                "ruleContent": {
+                  "show": true,
+                  "title": "gro-tbc3-spot-event-title",
+                  "rule": "{\"layout\":{\"root\":[\"ViewInstance0\"],\"ViewInstance0\":[\"9d0867cc-7572-4f2c-b5b0-82693aa0675b\",\"a2711339-6bc8-46db-acad-983798e6306b\",\"5ee6bbc4-d3e0-49ef-9d44-9598be5734ab\",\"da5ada55-657f-4612-b927-e882441ef2ab\",\"5a2f5742-1c17-4b2a-97b9-2d67f2fef78b\",\"6f1d6549-8f51-4dec-b3e1-2ed18bc8c61b\",\"bd08f9fa-5721-4b88-bc98-be951d19ebbb\",\"a602e11b-063d-43e4-86e8-16a080350aab\",\"e0ac15c1-6e99-4dee-b418-7103e57d17eb\",\"38d4dfe9-f159-49a3-b404-2fa17201c74b\",\"1ea76fca-8f29-468d-b703-9ce5512df90b\",\"5c36b70f-2a74-443f-b980-53172cd7136b\",\"8d6efb14-3a67-4fb8-adac-90752d01b7fb\",\"25512b12-5865-40b2-bb45-93dfc9c15d1b\",\"2dcf57c3-74f9-4c26-994e-bba4e1d36acb\",\"ad5e1b0a-5a7c-4999-bdfc-12bb5e2c7c3b\",\"98a263ca-5eea-436a-a42d-684aa3918abb\",\"e9d08056-54cb-4f09-9ff3-a06f669505db\",\"88e5cae1-a0b5-46f1-97e8-ca547c64d8cb\",\"bbc4e5ee-63d0-4b7a-b0f2-47bd3d7f73db\",\"beae16cf-a717-46c7-9a6b-82bca23a81eb\",\"f07a89d4-2e5c-4d10-b9d6-f770068dcbab\",\"63cae3a1-03ae-4417-86ce-b5e7832dfaab\",\"661ef2e6-601e-4f5c-a926-84501136950b\",\"aa1042da-3e5c-4106-b16d-f15bc34e5b0b\",\"e0c6e8db-f938-41fd-89c8-4dc0e5e9069b\"]},\"hash\":{\"ViewInstance0\":{\"id\":\"Fragment\"},\"9d0867cc-7572-4f2c-b5b0-82693aa0675b\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h3\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"参与资格：\",\"style\":{}}}],\"style\":{}}},\"a2711339-6bc8-46db-acad-983798e6306b\":{\"id\":\"RichTextList\",\"config\":{\"listType\":\"unordered\",\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"288c168e-d759-4fe7-a020-6d996b302c1b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"所有已完成\",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/support/faq/detail/360027287111\",\"target\":\"_blank\",\"content\":\"身份认证\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"的\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"普通用户和VIP用户\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"均可参加。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"2ec19601-33d3-4118-b8b2-0f47dbfc848b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"币安\",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/support/announcement/detail/6311b67d26804bf48c5d62f5beb91202\",\"target\":\"_blank\",\"content\":\"现货做市商计划\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"中的做市商及币安经纪商\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"不符合\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"参加活动的资格。\",\"style\":{}}}],\"style\":{}}}]}}]}},\"5ee6bbc4-d3e0-49ef-9d44-9598be5734ab\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h3\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"符合条件的指定交易对\",\"style\":{\"bold\":true}}}],\"style\":{}}},\"da5ada55-657f-4612-b927-e882441ef2ab\":{\"id\":\"RichTextList\",\"config\":{\"listType\":\"unordered\",\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"8d47e82d-b7e4-4a18-b3e3-915005f956bb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"交易对：MMT/USDT, MMT/USDC\",\"style\":{}}}],\"style\":{}}}]}}]}},\"5a2f5742-1c17-4b2a-97b9-2d67f2fef78b\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"6f1d6549-8f51-4dec-b3e1-2ed18bc8c61b\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h3\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"如何参加:\",\"style\":{\"bold\":true}}}],\"style\":{}}},\"bd08f9fa-5721-4b88-bc98-be951d19ebbb\":{\"id\":\"RichTextList\",\"config\":{\"listType\":\"ordered\",\"start\":1,\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"755a0c80-c57c-4f62-ba93-921e5e76857b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"访问\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"任务页面\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"，通过点击\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"【立即参加】\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"注册参与活动；\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"a7c5b351-ff19-4a38-8fe9-7faf569246eb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"活动期间，在上述任一符合条件的现货交易对，\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"累计交易至少500 美元等值\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"交易量，不符合此门槛的用户将\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"无法\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"获得交易量锦标赛的任何奖励。\",\"style\":{}}}],\"style\":{}}}]}}]}},\"a602e11b-063d-43e4-86e8-16a080350aab\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h3\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"主奖池结构：\",\"style\":{\"bold\":true}}}],\"style\":{}}},\"e0ac15c1-6e99-4dee-b418-7103e57d17eb\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"38d4dfe9-f159-49a3-b404-2fa17201c74b\":{\"id\":\"RichTextTable\",\"config\":{\"header\":[\"187b2c60-8074-4d87-8272-f164a0016f9b\",\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\"],\"data\":[{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"798261b6-9376-4b8b-b0fc-2d9542b67f1b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"3d7ae7d8-ed8e-413a-a286-3020f164db2b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"统计时间： 2026年08月06日18:00 至 2026年08月13日18:00 （东八区时间）\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":2,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"8e17727a-5279-45b9-baee-29fde82c650b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"5df9bce5-f556-4110-8b5c-33960ce0ec3b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"交易量排名\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"45a7ebdc-6b46-4efb-97dd-9137dbb8b99b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"f4734649-78cc-41f3-935d-6c45b667481b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"每位符合资格参与者的奖励（\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"MMT\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"代币券）\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"c3fea82b-c2ba-4180-90fa-c2d7f4712a8b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"b486fb38-7cad-471e-895d-1464e31b098b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第1名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"55846e73-fc58-4e81-b1b9-64712d6f075b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"cec37278-075d-42fa-995a-4ab5ad10d72b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"60,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"69a8a51c-363c-4c1b-ab29-104e98954f9b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"7b2c0b7c-7039-4176-86f3-e9957e79417b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第2名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"890b351c-cee2-4cb0-b31d-14c3418a623b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"d5ce346c-6531-418f-bfa3-e364abc52b5b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"50,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"7725bc1a-e47c-4a88-a0f1-474bd1fd7a5b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"22a52458-7e6a-4a6b-8b8a-6cefcbcec70b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第3名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"7f4a73ac-a0a1-43ef-99cc-93424f4e8dab\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"36f1bb86-ea33-4c10-9710-00d2298c45bb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"40,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"89073bf1-7f55-40ce-96c7-6b8e648f132b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"9ce6511d-f054-40f9-826c-0c3f22f28eeb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第4名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"eaa0b277-9ee0-4d24-89b7-3a2dd3a785ab\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"d4bfc6d6-6ae5-41a9-a88b-0daab63ecf0b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"30,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"b8f0d8f2-449b-4301-9343-e8d7aa37d3cb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"092b3848-e739-4ab4-a0a2-6409b5646b1b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第5名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"ec9430d3-2694-494a-b0a1-ccc7a3eb426b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"2e972385-516a-4bb4-88c8-6dbdf68d07db\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"20,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"fccb9de9-850e-4e77-83e7-09854b08e8cb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"b80fc855-4188-4100-889a-1246daeae44b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第6 - 20名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"003d715b-f688-4bd9-b270-bb6cfba04f9b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"1afa2e94-cdfb-4d45-a073-7b52196ff18b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"均分200,000 MMT奖池\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"3d82193f-0f0a-4757-b774-06aee057b31b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"25a9c1ae-625a-4679-8fd3-ed9466c65d8b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第21 - 50名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"1ba09df2-db26-49d7-b18d-df851a0df07b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"37d2e181-7372-4908-9d55-75fb811f50fb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"均分200,000 MMT奖池\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"d4d991a0-ea07-408c-a4a8-7140d4c016eb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"b1aa65b3-93ce-4049-b8b2-717afdc8979b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第51 - 200名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"1c81db64-e7ea-4f5d-bd22-aa015e186a1b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"840df8dc-b1f1-404f-aef6-43b224a1085b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"均分320,000 MMT奖池\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"b9b109da-01fa-4218-a9f7-fbb495ff2acb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"a945a23f-301e-449b-b779-df875239af0b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第201 - 1,000名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"8a250a71-47f5-4429-8694-2cde1d30931b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"a6e966f8-a00f-4888-a678-95f249e7f90b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"均分280,000 MMT奖池\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"187b2c60-8074-4d87-8272-f164a0016f9b\":{\"id\":\"RichTextTableCell\",\"key\":\"20568c60-1526-43d4-bc02-dd71ed471e1b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"7df323ff-dc9b-4beb-a0f1-bdcbd234e27b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第1,001 - 5,000名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"82c9b609-fefa-4a04-abd1-a04f5f655b7b\":{\"id\":\"RichTextTableCell\",\"key\":\"3f4c0216-f3d3-41f1-85e8-93d0377f706b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"14fe246e-0155-40cb-84a2-d6f844f292cb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"均分400,000 MMT奖池\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}}]}},\"1ea76fca-8f29-468d-b703-9ce5512df90b\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"5c36b70f-2a74-443f-b980-53172cd7136b\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h3\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"限时奖池结构：\",\"style\":{\"bold\":true}}}],\"style\":{}}},\"8d6efb14-3a67-4fb8-adac-90752d01b7fb\":{\"id\":\"RichTextParagraph\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"币安现推出“限时奖池“，在指定的统计时间内，根据用户累计交易量排名获得对应的奖励，交易量越高，额外奖励越多，请注意，用户可以同时获得“限时奖池”和“主奖池”的奖励。\",\"style\":{}}}],\"style\":{}}},\"25512b12-5865-40b2-bb45-93dfc9c15d1b\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"2dcf57c3-74f9-4c26-994e-bba4e1d36acb\":{\"id\":\"RichTextTable\",\"config\":{\"header\":[\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\",\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\",\"859c436d-7412-453f-86d4-4d648e8ba3fb\"],\"data\":[{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"d435cbf3-a211-41dd-96ff-60d4a182b8eb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"621abc67-c7a5-4ef7-bdf9-b28584d1509b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"交易量排名\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":2}},\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\":{\"id\":\"RichTextTableCell\",\"key\":\"e5660462-ebef-43ec-bb13-721dde16161b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"2d5a3bc3-70dc-4000-8091-53d95a4d151b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第一轮统计时间：2026年08月06日18:00至2026年08月08日18:00 （东八区时间）\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"859c436d-7412-453f-86d4-4d648e8ba3fb\":{\"id\":\"RichTextTableCell\",\"key\":\"ae0ea8f0-f645-48d9-bee1-0f6a7bce33bb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"a8775ce0-a393-41bc-af9f-356ed5a1095b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第二轮统计时间：2026年08月08日18:01至2026年08月10日18:00（东八区时间）\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"e5dda3d4-0e76-4f62-92ff-c546d479af2b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"96467a05-876f-4e31-82fb-529333d6eb3b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"每位符合资格参与者的奖励（MMT代币券）\",\"style\":{\"bold\":true}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":2,\"rowSpan\":1}}},{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"0436d7db-22c5-4c53-918d-f7bd100967cb\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"2f813318-6720-47bc-aed0-eb6a41b0c69b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第1名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\":{\"id\":\"RichTextTableCell\",\"key\":\"3e3eea40-4498-458c-a95c-ffffc46b566b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"883e2b7b-9494-4afa-bd07-989897ef780b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"60,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"859c436d-7412-453f-86d4-4d648e8ba3fb\":{\"id\":\"RichTextTableCell\",\"key\":\"f9a00ed0-a231-47af-973f-b6a762e0991b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"6642a4bb-94bb-4094-a0f7-11b4e58e3f6b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"60,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"fe6223c7-abac-422f-abd9-423baa20dd4b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"654c95b2-372f-4351-b2e8-f5c1f78ffd9b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第2名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\":{\"id\":\"RichTextTableCell\",\"key\":\"3c470669-7e7e-4f7e-9417-23b551fc5c9b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"b3c0fa51-88f3-4b91-9cd8-d5c64e9ac15b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"50,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"859c436d-7412-453f-86d4-4d648e8ba3fb\":{\"id\":\"RichTextTableCell\",\"key\":\"75115339-1261-41b8-96ee-9b9e71d8404b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"003246ae-ada3-4855-acc4-a40908e80c3b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"50,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"0617a65f-53d4-4c29-977b-a787fcc82f6b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"5a94c95f-fcb8-48b1-a04a-205e8ebbe6ab\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第3名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\":{\"id\":\"RichTextTableCell\",\"key\":\"99ce5c84-95da-4549-829d-d5152122b53b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"ae64dbef-53bb-4257-93b2-df539e1136cb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"40,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"859c436d-7412-453f-86d4-4d648e8ba3fb\":{\"id\":\"RichTextTableCell\",\"key\":\"03b4e229-f947-44f8-ae5d-bee0e82a654b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"d3edeb9a-0b8a-48f4-96fa-b1c71c6fff7b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"40,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"607f44de-8201-47ec-ab4d-e4ffb09b020b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"7fc39ec9-2c83-482d-854d-3f9e4b484fbb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第4名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\":{\"id\":\"RichTextTableCell\",\"key\":\"73c372bf-e13a-4a82-92c0-b5bd0837f88b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"c5658cb9-17bc-41ec-90b3-e1467c4e056b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"30,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"859c436d-7412-453f-86d4-4d648e8ba3fb\":{\"id\":\"RichTextTableCell\",\"key\":\"72c26a54-e3ab-415f-a073-1cec8410804b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"e114afd6-f08d-4b1e-95ac-b042a2480d4b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"30,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}},{\"ec4718a3-8ee5-47df-9ce3-829a64a6079b\":{\"id\":\"RichTextTableCell\",\"key\":\"2da7f1ed-4780-49a0-94a5-873c606ed46b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"43182e6a-705c-4c4c-81db-53ca853fb2fb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"第5名\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"7a7fdebb-7da9-4667-aa4f-23b601cf35cb\":{\"id\":\"RichTextTableCell\",\"key\":\"b99461e8-e3e7-4c85-9603-c08b29b9050b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"bd93e291-de0e-409e-8f5a-a7c8d97ec57b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"20,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}},\"859c436d-7412-453f-86d4-4d648e8ba3fb\":{\"id\":\"RichTextTableCell\",\"key\":\"e3b75347-e3ac-454e-994b-cd98e679c64b\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"2949d654-9ec9-4f34-88dc-2fc1f1ad051b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"20,000 MMT\",\"style\":{}}}],\"style\":{\"align\":\"center\"}}}],\"colSpan\":1,\"rowSpan\":1}}}]}},\"ad5e1b0a-5a7c-4999-bdfc-12bb5e2c7c3b\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"98a263ca-5eea-436a-a42d-684aa3918abb\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h2\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"活动规则：\",\"style\":{}}}],\"style\":{}}},\"e9d08056-54cb-4f09-9ff3-a06f669505db\":{\"id\":\"RichTextList\",\"config\":{\"listType\":\"unordered\",\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"43ed685c-c8b3-474b-a568-af22f4923eeb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"所有享有\",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/fee/tradingPromote\",\"target\":\"_blank\",\"content\":\"零交易手续费\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"的交易量，将\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"不计入\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"最终交易量计算。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"0977b296-33aa-4078-a05e-a1ff0db5edeb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"交易手续费或Gas费\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"不计入所有的\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"任务或锦标赛最终交易量计算。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"29d67454-56e1-48f7-aa77-4871f81926fb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"所有符合条件的买入和卖出订单都将计入总交易量计算。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"28772de3-d5be-4301-90ac-73c15b6367bb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"所有代币券奖励将于\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"2026年08月27日结束前\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"分发，代币券的有效期为\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"21天\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"。用户可以登录后在账户 > \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/rewards-hub\",\"target\":\"_blank\",\"content\":\"奖励中心\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"中兑换代币券奖励。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"67791e4c-61fa-4bff-a70a-4f0f2f1e9c3b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"现货交易量主奖池排行榜和限时奖池榜分别显示在不同的子活动页上，数据至少每24小时更新一次, 最后一次数据同步将在活动结束后的几个小时内完成。数据同步时间每日可能有所不同，但均会在当天结束前完成。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"01fd6289-7cc0-4467-a1fc-4da42549f7bb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"只有达到最低交易量门槛的用户及其交易量才会显示在排行榜上。\",\"style\":{}}}],\"style\":{}}}]}}]}},\"88e5cae1-a0b5-46f1-97e8-ca547c64d8cb\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"bbc4e5ee-63d0-4b7a-b0f2-47bd3d7f73db\":{\"id\":\"RichTextParagraph\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"要查看更多币安新代币上市的活动，请继续关注\",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/events/spot-colosseum\",\"target\":\"_blank\",\"content\":\"此链接\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"以获取最新更新和独家机会。\",\"style\":{}}}],\"style\":{}}},\"beae16cf-a717-46c7-9a6b-82bca23a81eb\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h3\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"更多信息：\",\"style\":{\"bold\":true}}}],\"style\":{}}},\"f07a89d4-2e5c-4d10-b9d6-f770068dcbab\":{\"id\":\"RichTextList\",\"config\":{\"listType\":\"unordered\",\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"17ea7c1c-b19f-4344-812e-d517abbb635b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"如何在币安交易现货 (\",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/support/faq/c0669862a9e743d781c067c14106c29a\",\"target\":\"_blank\",\"content\":\"App\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\" / \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/support/faq/115003765031\",\"target\":\"_blank\",\"content\":\"官网\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\")\",\"style\":{}}}],\"style\":{}}}]}}]}},\"63cae3a1-03ae-4417-86ce-b5e7832dfaab\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}},\"661ef2e6-601e-4f5c-a926-84501136950b\":{\"id\":\"RichTextHeader\",\"config\":{\"tag\":\"h2\",\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"条款与条件：\",\"style\":{}}}],\"style\":{}}},\"aa1042da-3e5c-4106-b16d-f15bc34e5b0b\":{\"id\":\"RichTextList\",\"config\":{\"listType\":\"unordered\",\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"24a39a7c-015c-4681-91bf-7289cb29d24b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"参与活动（「活动」）即表示您同意接受本条款（「活动条款」） 的约束。参与本活动代表您同意本活动条款以及下列附加条款：(a) \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/pp-terms\",\"target\":\"_blank\",\"content\":\"币安有奖活动条款\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"；(b) \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/terms\",\"target\":\"_blank\",\"content\":\"币安使用条款\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"；以及 (c) \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/privacy\",\"target\":\"_blank\",\"content\":\"币安隐私政策\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"。以上附加条款皆并入本条款；\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"4670d3da-8462-48e7-8504-05edc4f0324b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"若本活动条款与任何其他合并条款之间出现歧义或冲突，应以本活动条款为准，其次按以下优先顺序适用：(a) \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/pp-terms\",\"target\":\"_blank\",\"content\":\"币安有奖活动条款\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"；(b) \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/terms\",\"target\":\"_blank\",\"content\":\"币安使用条款\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"；以及 (c) \",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/privacy\",\"target\":\"_blank\",\"content\":\"币安隐私政策\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"；\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"4322f91a-38ce-404f-88ad-c1468fa4000b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"只有在活动结束前完成任务或锦标赛的已\",\"style\":{}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/support/faq/detail/360027287111\",\"target\":\"_blank\",\"content\":\"认证用户\",\"customEvents\":\"[object Object]\",\"style\":{\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"，才可获得奖励。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"062a958f-7aed-4173-a89b-f19c05ec39cb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"锦标赛面向所有已认证并开通币安现货交易的普通用户和VIP用户，且可能因法律法规要求，在某些司法管辖区或地区，或特定用户而受到限制。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"46acca05-1f4c-42ff-a225-da3d9aebe26b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"奖励分配：\",\"style\":{\"bold\":true}}}],\"style\":{}}},{\"id\":\"RichTextList\",\"key\":\"b9cc9d07-8bf8-426e-b111-bf7c2fd7eb9b\",\"config\":{\"listType\":\"unordered\",\"content\":[{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"48a7e966-4e5e-4b13-8832-bc079f28ed2b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"所有代币券奖励将在活动期间结束后，于2026年08月27日结束前分发给合格用户。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"af2314be-ff51-4777-b347-e3bcdbe8f98b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"用户可通过账户\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/rewards-hub\",\"target\":\"_blank\",\"content\":\"奖励中心\",\"customEvents\":\"[object Object]\",\"style\":{\"bold\":true,\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"登录并兑换代币券奖励。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"ae5e1e48-2f7b-46d8-8f3f-9e2debe596cb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"用户应在21天内领取代币券，否则代币券将失效，无法获得奖励，并且不会提供替代奖励。更多详情请参阅\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/support/faq/what-are-binance-vouchers-and-how-to-redeem-acb5e3f3e3024506b8f4cedefe334d0e\",\"target\":\"_blank\",\"content\":\"币安奖券的兑换方式\",\"customEvents\":\"[object Object]\",\"style\":{\"bold\":true,\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"9971e256-0b52-4c00-8f2b-4077b30b5deb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"请注意，收到的奖励的实际价值可能会因市场波动而发生变化。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"12741436-8e5b-4fd1-9c65-47516bf9186b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"奖励需遵守附加\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextLink\",\"config\":{\"href\":\"https://www.binance.com/zh-CN/support/faq/detail/8fb78721e97b4138b90b51239f41a9aa\",\"target\":\"_blank\",\"content\":\"条款和条件\",\"customEvents\":\"[object Object]\",\"style\":{\"bold\":true,\"underscore\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"e7a1f7da-6d60-4471-8072-143116941f8b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"奖励不可协商或转让。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"139476b6-76ba-4972-94b3-5bd6cd5f704b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"奖励一旦发放完毕，将不再提供任何奖励给后续完成任务或锦标赛的用户。\",\"style\":{\"bold\":true}}}],\"style\":{}}}]}}]}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"b67affa3-35cb-4bfc-9880-081d21274b7b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"用户\",\"style\":{}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"交易量锦标赛的交易量\",\"style\":{\"bold\":true}}},{\"id\":\"RichTextText\",\"config\":{\"content\":\"将在用户注册活动后起算并根据（i）其主账户和子账户的交易量，以及（ii）所有现货产品（包括现货交易、现货跟单交易和交易机器人）的交易量计算。API交易量同样计入。币安对用户交易量的计算结果具有最终决定权。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"f3c6ba74-6cf9-4bf5-afb1-0eab71fb8e7b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"币安保留取消用户奖励资格的权利，若该帐户涉及任何不诚实行为（例如：洗钱交易、非法大量注册/登入帐户、自我交易或市场操纵）。此外，币安亦保留取消任何篡改币安程式码或使用其他软体干扰币安程式码运作的参与者资格的权利。已经被取消的奖励不会流回奖池。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"0236b20c-def2-4530-9162-cd190e39b5fb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"币安保留随时自行决定和/或修改或更改活动或活动规则的权利，不再另行通知，包括但不限于取消、延长、终止或暂停此活动，资格条款和标准，获奖者的选择和数量以及采取任何行动的时间，所有参与者均应受这些修订条款的约束；\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"32cf2a10-b174-4f57-8760-c9f4b29c2ceb\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"活动的开始及运作（包括推广期间的开始）以相关代币成功在币安现货上市为前提。如因任何原因导致上市延迟或取消，活动（包括推广期间及奖励发放）可能会被延后、修改或取消，具体由币安自行决定。币安对因此类变更所造成的任何损失或不便概不负责。\",\"style\":{}}}],\"style\":{}}}]}},{\"id\":\"RichTextListItem\",\"config\":{\"content\":[{\"id\":\"RichTextParagraph\",\"key\":\"dbe926f8-8581-448d-b469-332f54867e0b\",\"config\":{\"content\":[{\"id\":\"RichTextText\",\"config\":{\"content\":\"英文原版公告与翻译版本可能存在差异。若有任何差异，请参照英文原版以获取最新或最准确的信息。\",\"style\":{}}}],\"style\":{}}}]}}]}},\"e0c6e8db-f938-41fd-89c8-4dc0e5e9069b\":{\"id\":\"RichTextParagraph\",\"config\":{\"style\":{}}}}}"
+                },
+                "faqContent": {
+                  "show": true,
+                  "title": "常见问题",
+                  "faqList": [
+                    {
+                      "question": "「交易量锦标赛：总交易量」为什么和K线图上交易量总和显示的不一样？",
+                      "answer": "「交易量锦标赛：总交易量」显示的是所有符合条件交易对的买卖总成交量（双边），而每根K线图只显示单一交易对的单边成交量。此外，未参与赛事的用户交易量不会计入活动数据，这可能导致总交易赛事的交易量看起来高于或低于个别K线图所显示的交易量。"
+                    },
+                    {
+                      "question": "为什么我已经交易了，但交易量没有被记录？",
+                      "answer": "您的交易量只有在点击“立即加入”按钮后才会被记录。请注意，零手续费交易对的交易量不计入统计。"
+                    },
+                    {
+                      "question": "排行榜数据什么时候更新？",
+                      "answer": "现货交易量主奖池排行榜和限时奖池榜分别显示在不同的子活动页上，数据至少每24小时更新一次, 最后一次数据同步将在活动结束后的几个小时内完成。数据同步时间每日可能有所不同，但均会在当天结束前完成。"
+                    }
+                  ]
+                },
+                "tasksListingContent": {
+                  "show": false,
+                  "title": null,
+                  "taskListingResourceIdList": null
+                },
+                "sponsorshipContent": {
+                  "show": false,
+                  "sponsorImageList": []
+                },
+                "periodDisplayPosition": "ON_TOP",
+                "overrideStartTime": null,
+                "overrideEndTime": null
+              },
+              "homepageVersion2": null,
+              "addPageList": [],
+              "sharingContent": {
+                "description": "瓜分 2,000,000 MMT 奖励",
+                "image": null,
+                "backgroundImage": null,
+                "posterList": [
+                  {
+                    "resourceId": 100016874,
+                    "title": " ",
+                    "hashtag": " ",
+                    "image": {
+                      "lightThumbnailUrl": null,
+                      "lightSmallUrl": null,
+                      "lightMediumUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260225/c288327b-da5c-4cf0-9297-82ca26c93b19.png",
+                      "lightLargeUrl": null,
+                      "lightExtraLargeUrl": null,
+                      "darkThumbnailUrl": null,
+                      "darkSmallUrl": null,
+                      "darkMediumUrl": "https://bin.bnbstatic.com/image/admin_mgs_image_upload/20260806/8055d767-6e54-4302-8e9e-f04d51f5b0ad.png",
+                      "darkLargeUrl": null,
+                      "darkExtraLargeUrl": null
+                    }
+                  }
+                ]
+              },
+              "userCenterContent": {
+                "bannerTitle": "MMT现货交易竞赛"
+              }
+            }
+          },
+          "activities": [
+            {
+              "id": 100016875,
+              "code": "cbc683ee0024452eb0889a62c15f904e-1785987955",
+              "type": "TRADING_COMPETITION_ACTIVITY",
+              "status": "PUBLISHED",
+              "publishedTime": 1786010400000,
+              "taskExpiredTime": 1786615200000,
+              "unpublishedTime": 1786615200000,
+              "referenceResourceIdList": [],
+              "globalContent": {
+                "trackSource": null,
+                "uri": "Main-Reward",
+                "disabledUrl": null,
+                "defaultLanguage": "en",
+                "languageList": [
+                  "en",
+                  "zh-CN",
+                  "zh-TC"
+                ],
+                "redirectLanguageList": null,
+                "userGroupList": [],
+                "btsLanguageList": null,
+                "btsJobList": null,
+                "evergreenMode": null,
+                "distributionReminderId": null,
+                "themisFeatureGateName": null,
+                "registerMethodList": [
+                  {
+                    "type": "STANDARD_REFERRAL",
+                    "referralCode": ""
+                  }
+                ],
+                "rewardPoolSetting": {
+                  "rewardPoolStructure": "FIXED_PRIZE_POOL",
+                  "unit": "MMT",
+                  "rewardAmountList": [
+                    {
+                      "threshold": 0,
+                      "amount": 1600000
+                    }
+                  ]
+                },
+                "rankingSetting": {
+                  "rankingType": "TRADING_VOLUME",
+                  "rankingPrizeList": [
+                    {
+                      "start": 1,
+                      "end": 1,
+                      "fixedAmount": 60000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 2,
+                      "end": 2,
+                      "fixedAmount": 50000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 3,
+                      "end": 3,
+                      "fixedAmount": 40000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 4,
+                      "end": 4,
+                      "fixedAmount": 30000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 5,
+                      "end": 5,
+                      "fixedAmount": 20000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 6,
+                      "end": 20,
+                      "fixedAmount": 200000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 21,
+                      "end": 50,
+                      "fixedAmount": 200000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 51,
+                      "end": 200,
+                      "fixedAmount": 320000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 201,
+                      "end": 1000,
+                      "fixedAmount": 280000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 1001,
+                      "end": 5000,
+                      "fixedAmount": 400000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    }
+                  ],
+                  "teamRankingPrizeList": [],
+                  "settleUnit": "USD",
+                  "leaderSharedPercentage": 0
+                },
+                "includeTradingPairList": null,
+                "excludeTradingPairList": null,
+                "includeSpotTradingPairList": [
+                  "MMT/USDC",
+                  "MMT/USDT"
+                ],
+                "excludeSpotTradingPairList": [],
+                "includeFuturesUmTradingPairList": [],
+                "excludeFuturesUmTradingPairList": [],
+                "includeFuturesCmTradingPairList": [],
+                "excludeFuturesCmTradingPairList": [],
+                "productLine": "SPOT_TRADING",
+                "excludeVIPLevelList": null,
+                "competitionType": "SOLO",
+                "teamType": "NONE",
+                "taskOnlyActivity": null,
+                "leaderboardQualifyThresholds": 500,
+                "chatroomEnabled": false
+              },
+              "i18nContent": {
+                "title": "主奖池",
+                "teamCompetitionIconImage": null,
+                "teamCompetitionDescription": null,
+                "ruleContent": {
+                  "show": false,
+                  "sectionTitle": null,
+                  "sectionSubtitle": null,
+                  "coverImage": null,
+                  "rulesTitle": null,
+                  "rulesSubtitle": null,
+                  "showEligiblePairs": false
+                },
+                "rewardStructureContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null,
+                  "backgroundImage": null,
+                  "border": null,
+                  "afterCompletionBackgroundImage": null
+                },
+                "rewardAllocationContent": {
+                  "show": true,
+                  "title": "主奖池结构",
+                  "subtitle": ""
+                },
+                "tasksListingContent": null,
+                "leaderboardContent": {
+                  "show": true,
+                  "title": "主奖池排行榜",
+                  "showEstimatedRewards": false,
+                  "highlightTop3Users": true,
+                  "showUserAvatar": true,
+                  "actionButtonUrl": "https://app.binance.com/trade/MMT_USDT?_dp=L3RyYWRlL3RyYWRlP2F0PXNwb3Qmc3ltYm9sPW1tdHVzZHQ",
+                  "actionButtonAppUrl": null,
+                  "actionButtonText": "立即交易",
+                  "leaderboardUnit": "USD",
+                  "leaderboardUnitTitle": "交易量"
+                },
+                "termAndConditionContent": {
+                  "show": false,
+                  "text": null
+                },
+                "trendingCoinsContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null
+                },
+                "timelineContent": {
+                  "show": true,
+                  "timelineList": [
+                    {
+                      "title": "开始时间",
+                      "subtitle": "2026年08月06日18:00（东八区时间）"
+                    },
+                    {
+                      "title": "结束时间",
+                      "subtitle": "2026年08月13日18:00（东八区时间）"
+                    }
+                  ]
+                },
+                "statisticsSectionContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null,
+                  "buttonText": null,
+                  "buttonUrl": null,
+                  "statisticList": []
+                }
+              }
+            },
+            {
+              "id": 100016877,
+              "code": "805f6909de734ae0a67fc3aa46824070-1785987956",
+              "type": "TRADING_COMPETITION_ACTIVITY",
+              "status": "UNPUBLISHED",
+              "publishedTime": 1786010400000,
+              "taskExpiredTime": 1786183200000,
+              "unpublishedTime": 1786183200000,
+              "referenceResourceIdList": [],
+              "globalContent": {
+                "trackSource": null,
+                "uri": "Sprint-Reward1",
+                "disabledUrl": null,
+                "defaultLanguage": "en",
+                "languageList": [
+                  "en",
+                  "zh-CN",
+                  "zh-TC"
+                ],
+                "redirectLanguageList": null,
+                "userGroupList": [],
+                "btsLanguageList": null,
+                "btsJobList": null,
+                "evergreenMode": null,
+                "distributionReminderId": null,
+                "themisFeatureGateName": null,
+                "registerMethodList": [
+                  {
+                    "type": "STANDARD_REFERRAL",
+                    "referralCode": ""
+                  }
+                ],
+                "rewardPoolSetting": {
+                  "rewardPoolStructure": "FIXED_PRIZE_POOL",
+                  "unit": "MMT",
+                  "rewardAmountList": [
+                    {
+                      "threshold": 0,
+                      "amount": 200000
+                    }
+                  ]
+                },
+                "rankingSetting": {
+                  "rankingType": "TRADING_VOLUME",
+                  "rankingPrizeList": [
+                    {
+                      "start": 1,
+                      "end": 1,
+                      "fixedAmount": 60000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 2,
+                      "end": 2,
+                      "fixedAmount": 50000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 3,
+                      "end": 3,
+                      "fixedAmount": 40000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 4,
+                      "end": 4,
+                      "fixedAmount": 30000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 5,
+                      "end": 5,
+                      "fixedAmount": 20000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    }
+                  ],
+                  "teamRankingPrizeList": [],
+                  "settleUnit": "USD",
+                  "leaderSharedPercentage": 0
+                },
+                "includeTradingPairList": null,
+                "excludeTradingPairList": null,
+                "includeSpotTradingPairList": [
+                  "MMT/USDC",
+                  "MMT/USDT"
+                ],
+                "excludeSpotTradingPairList": [],
+                "includeFuturesUmTradingPairList": [],
+                "excludeFuturesUmTradingPairList": [],
+                "includeFuturesCmTradingPairList": [],
+                "excludeFuturesCmTradingPairList": [],
+                "productLine": "SPOT_TRADING",
+                "excludeVIPLevelList": null,
+                "competitionType": "SOLO",
+                "teamType": "NONE",
+                "taskOnlyActivity": null,
+                "leaderboardQualifyThresholds": 500,
+                "chatroomEnabled": false
+              },
+              "i18nContent": {
+                "title": "第一轮限时奖池",
+                "teamCompetitionIconImage": null,
+                "teamCompetitionDescription": null,
+                "ruleContent": {
+                  "show": false,
+                  "sectionTitle": null,
+                  "sectionSubtitle": null,
+                  "coverImage": null,
+                  "rulesTitle": null,
+                  "rulesSubtitle": null,
+                  "showEligiblePairs": false
+                },
+                "rewardStructureContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null,
+                  "backgroundImage": null,
+                  "border": null,
+                  "afterCompletionBackgroundImage": null
+                },
+                "rewardAllocationContent": {
+                  "show": true,
+                  "title": "第一轮限时奖池结构",
+                  "subtitle": null
+                },
+                "tasksListingContent": null,
+                "leaderboardContent": {
+                  "show": true,
+                  "title": "第一轮限时奖池榜",
+                  "showEstimatedRewards": false,
+                  "highlightTop3Users": true,
+                  "showUserAvatar": true,
+                  "actionButtonUrl": "https://app.binance.com/trade/MMT_USDT?_dp=L3RyYWRlL3RyYWRlP2F0PXNwb3Qmc3ltYm9sPW1tdHVzZHQ",
+                  "actionButtonAppUrl": null,
+                  "actionButtonText": "gro-tc-act0-leaderboardcontent-actionbuttontext-43250",
+                  "leaderboardUnit": "USD",
+                  "leaderboardUnitTitle": "交易量"
+                },
+                "termAndConditionContent": {
+                  "show": false,
+                  "text": null
+                },
+                "trendingCoinsContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null
+                },
+                "timelineContent": {
+                  "show": true,
+                  "timelineList": [
+                    {
+                      "title": "开始时间",
+                      "subtitle": "2026年08月06日18:00（东八区时间）"
+                    },
+                    {
+                      "title": "结束时间",
+                      "subtitle": "2026年08月08日18:00（东八区时间）"
+                    }
+                  ]
+                },
+                "statisticsSectionContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null,
+                  "buttonText": null,
+                  "buttonUrl": null,
+                  "statisticList": []
+                }
+              }
+            },
+            {
+              "id": 100016879,
+              "code": "642fb7688f5d416093787f011c61d9ca-1785987957",
+              "type": "TRADING_COMPETITION_ACTIVITY",
+              "status": "PUBLISHED",
+              "publishedTime": 1786183260000,
+              "taskExpiredTime": 1786356000000,
+              "unpublishedTime": 1786356000000,
+              "referenceResourceIdList": [],
+              "globalContent": {
+                "trackSource": null,
+                "uri": "Sprint-Reward2",
+                "disabledUrl": null,
+                "defaultLanguage": "en",
+                "languageList": [
+                  "en",
+                  "zh-CN",
+                  "zh-TC"
+                ],
+                "redirectLanguageList": null,
+                "userGroupList": [],
+                "btsLanguageList": null,
+                "btsJobList": null,
+                "evergreenMode": null,
+                "distributionReminderId": null,
+                "themisFeatureGateName": null,
+                "registerMethodList": [
+                  {
+                    "type": "STANDARD_REFERRAL",
+                    "referralCode": ""
+                  }
+                ],
+                "rewardPoolSetting": {
+                  "rewardPoolStructure": "FIXED_PRIZE_POOL",
+                  "unit": "MMT",
+                  "rewardAmountList": [
+                    {
+                      "threshold": 0,
+                      "amount": 200000
+                    }
+                  ]
+                },
+                "rankingSetting": {
+                  "rankingType": "TRADING_VOLUME",
+                  "rankingPrizeList": [
+                    {
+                      "start": 1,
+                      "end": 1,
+                      "fixedAmount": 60000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 2,
+                      "end": 2,
+                      "fixedAmount": 50000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 3,
+                      "end": 3,
+                      "fixedAmount": 40000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 4,
+                      "end": 4,
+                      "fixedAmount": 30000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    },
+                    {
+                      "start": 5,
+                      "end": 5,
+                      "fixedAmount": 20000,
+                      "sharedPercentage": null,
+                      "includeTeamLeader": false
+                    }
+                  ],
+                  "teamRankingPrizeList": [],
+                  "settleUnit": "USD",
+                  "leaderSharedPercentage": 0
+                },
+                "includeTradingPairList": null,
+                "excludeTradingPairList": null,
+                "includeSpotTradingPairList": [
+                  "MMT/USDC",
+                  "MMT/USDT"
+                ],
+                "excludeSpotTradingPairList": [],
+                "includeFuturesUmTradingPairList": [],
+                "excludeFuturesUmTradingPairList": [],
+                "includeFuturesCmTradingPairList": [],
+                "excludeFuturesCmTradingPairList": [],
+                "productLine": "SPOT_TRADING",
+                "excludeVIPLevelList": null,
+                "competitionType": "SOLO",
+                "teamType": "NONE",
+                "taskOnlyActivity": null,
+                "leaderboardQualifyThresholds": 500,
+                "chatroomEnabled": false
+              },
+              "i18nContent": {
+                "title": "第二轮限时奖池",
+                "teamCompetitionIconImage": null,
+                "teamCompetitionDescription": null,
+                "ruleContent": {
+                  "show": false,
+                  "sectionTitle": null,
+                  "sectionSubtitle": null,
+                  "coverImage": null,
+                  "rulesTitle": null,
+                  "rulesSubtitle": null,
+                  "showEligiblePairs": false
+                },
+                "rewardStructureContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null,
+                  "backgroundImage": null,
+                  "border": null,
+                  "afterCompletionBackgroundImage": null
+                },
+                "rewardAllocationContent": {
+                  "show": true,
+                  "title": "第二轮限时奖池结构",
+                  "subtitle": null
+                },
+                "tasksListingContent": null,
+                "leaderboardContent": {
+                  "show": true,
+                  "title": "第二轮限时奖池榜",
+                  "showEstimatedRewards": false,
+                  "highlightTop3Users": true,
+                  "showUserAvatar": true,
+                  "actionButtonUrl": "https://app.binance.com/trade/MMT_USDT?_dp=L3RyYWRlL3RyYWRlP2F0PXNwb3Qmc3ltYm9sPW1tdHVzZHQ",
+                  "actionButtonAppUrl": null,
+                  "actionButtonText": "gro-tc-act0-leaderboardcontent-actionbuttontext-43250",
+                  "leaderboardUnit": "USD",
+                  "leaderboardUnitTitle": "交易量"
+                },
+                "termAndConditionContent": {
+                  "show": false,
+                  "text": null
+                },
+                "trendingCoinsContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null
+                },
+                "timelineContent": {
+                  "show": true,
+                  "timelineList": [
+                    {
+                      "title": "开始时间",
+                      "subtitle": "2026年08月08日18:01（东八区时间）"
+                    },
+                    {
+                      "title": "结束时间",
+                      "subtitle": "2026年08月10日18:00（东八区时间）"
+                    }
+                  ]
+                },
+                "statisticsSectionContent": {
+                  "show": false,
+                  "title": null,
+                  "subtitle": null,
+                  "buttonText": null,
+                  "buttonUrl": null,
+                  "statisticList": []
+                }
+              }
+            }
+          ],
+          "apolloConfig": {
+            "52804": {
+              "disableTeamCreation": true
+            },
+            "100000486": {
+              "tradersLeague2026June": true
+            },
+            "participantCountMap": {
+              "14951": 31406,
+              "17951": 84351
+            },
+            "regions": {
+              "Africa": {
+                "name": "trading-competition-regional-africa"
+              },
+              "LATAM": {
+                "name": "trading-competition-regional-latam"
+              },
+              "Asia": {
+                "name": "trading-competition-regional-APAC"
+              },
+              "APAC": {
+                "name": "trading-competition-regional-APAC"
+              },
+              "MENA": {
+                "name": "trading-competition-regional-mena"
+              },
+              "CIS & Europe": {
+                "name": "trading-competition-regional-cis-europe"
+              }
+            },
+            "hideEstimatedRewards": true,
+            "zeroFeePairs": []
+          },
+          "isPreview": false,
+          "tasksMap": {
+            "100016875": [
+              {
+                "id": 100016893,
+                "code": "74d6b901d1b346a4a2a836d91a98bff0",
+                "type": "MISSION",
+                "status": "PUBLISHED",
+                "publishedTime": 1786010400000,
+                "taskExpiredTime": 1786615200000,
+                "unpublishedTime": 1786615200000,
+                "referenceResourceIdList": [],
+                "globalContent": {
+                  "trackSource": null,
+                  "uri": null,
+                  "disabledUrl": null,
+                  "defaultLanguage": "en",
+                  "languageList": null,
+                  "redirectLanguageList": null,
+                  "userGroupList": null,
+                  "btsLanguageList": null,
+                  "btsJobList": null,
+                  "evergreenMode": null,
+                  "distributionReminderId": null,
+                  "themisFeatureGateName": null,
+                  "rewardQuota": null,
+                  "refreshMode": null,
+                  "refreshInterval": null,
+                  "extraValue": null,
+                  "reservedDaysForTrade": null,
+                  "protectionDuration": null,
+                  "rewardCode": null
+                },
+                "i18nContent": {
+                  "title": null,
+                  "subTitle": null,
+                  "description": null,
+                  "rewardTitle": null,
+                  "rewardDescription": null,
+                  "unfinishedTaskImage": null,
+                  "finishedTaskImage": null,
+                  "ctaButtonText": null,
+                  "ctaConfig": null
+                }
+              }
+            ],
+            "100016877": [
+              {
+                "id": 100016894,
+                "code": "0d627c5a2ba744bcbcded77b8d17fcae",
+                "type": "MISSION",
+                "status": "UNPUBLISHED",
+                "publishedTime": 1786010400000,
+                "taskExpiredTime": 1786183200000,
+                "unpublishedTime": 1786183200000,
+                "referenceResourceIdList": [],
+                "globalContent": {
+                  "trackSource": null,
+                  "uri": null,
+                  "disabledUrl": null,
+                  "defaultLanguage": "en",
+                  "languageList": null,
+                  "redirectLanguageList": null,
+                  "userGroupList": null,
+                  "btsLanguageList": null,
+                  "btsJobList": null,
+                  "evergreenMode": null,
+                  "distributionReminderId": null,
+                  "themisFeatureGateName": null,
+                  "rewardQuota": null,
+                  "refreshMode": null,
+                  "refreshInterval": null,
+                  "extraValue": null,
+                  "reservedDaysForTrade": null,
+                  "protectionDuration": null,
+                  "rewardCode": null
+                },
+                "i18nContent": {
+                  "title": null,
+                  "subTitle": null,
+                  "description": null,
+                  "rewardTitle": null,
+                  "rewardDescription": null,
+                  "unfinishedTaskImage": null,
+                  "finishedTaskImage": null,
+                  "ctaButtonText": null,
+                  "ctaConfig": null
+                }
+              }
+            ],
+            "100016879": [
+              {
+                "id": 100016895,
+                "code": "785e388c075d4bd4ad12fd0e83b64ded",
+                "type": "MISSION",
+                "status": "PUBLISHED",
+                "publishedTime": 1786183260000,
+                "taskExpiredTime": 1786356000000,
+                "unpublishedTime": 1786356000000,
+                "referenceResourceIdList": [],
+                "globalContent": {
+                  "trackSource": null,
+                  "uri": null,
+                  "disabledUrl": null,
+                  "defaultLanguage": "en",
+                  "languageList": null,
+                  "redirectLanguageList": null,
+                  "userGroupList": null,
+                  "btsLanguageList": null,
+                  "btsJobList": null,
+                  "evergreenMode": null,
+                  "distributionReminderId": null,
+                  "themisFeatureGateName": null,
+                  "rewardQuota": null,
+                  "refreshMode": null,
+                  "refreshInterval": null,
+                  "extraValue": null,
+                  "reservedDaysForTrade": null,
+                  "protectionDuration": null,
+                  "rewardCode": null
+                },
+                "i18nContent": {
+                  "title": null,
+                  "subTitle": null,
+                  "description": null,
+                  "rewardTitle": null,
+                  "rewardDescription": null,
+                  "unfinishedTaskImage": null,
+                  "finishedTaskImage": null,
+                  "ctaButtonText": null,
+                  "ctaConfig": null
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pageData": {
+    "shuviInitialState": {
+      "adventCalendar": {
+        "showDates": []
+      },
+      "referralLite": {
+        "activity": {}
+      },
+      "global": {
+        "origin": "",
+        "url": "",
+        "path": "",
+        "host": "",
+        "dir": "ltr",
+        "metaData": {
+          "metaTitle": "Binance",
+          "metaKeyword": "Buy/Sell Bitcoin, Ether and Altcoins | Cryptocurrency Exchange | Binance",
+          "metaDescription": "Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the world by volume",
+          "ogImage": ""
+        },
+        "region": "",
+        "isHybrid": false,
+        "withChat": true,
+        "withHeader": true,
+        "withFooter": true,
+        "withCompliance": true,
+        "restrictedBusinessKeys": [],
+        "noticeInfo": null,
+        "pageLayout": 1248
+      },
+      "cookies": {
+        "theme": "dark_midnight",
+        "userPreferredCurrency": "USD_USD"
+      },
+      "products": {
+        "loading": true,
+        "productMap": {},
+        "hotProduct": [],
+        "updateTime": 1785918041745
+      },
+      "ssrStore": {},
+      "userCenter": {
+        "userInfo": {},
+        "pmAccountInfo": {},
+        "languageMap": {},
+        "fiatCurrencyInfo": [],
+        "userPreferredCurrency": {},
+        "fiatCurrency": {
+          "USD": {
+            "pair": "USD_USD",
+            "rate": 1,
+            "symbol": "$"
+          }
+        },
+        "loginStatus": {
+          "isLoading": true
+        },
+        "userContract": {
+          "assetDetails": []
+        },
+        "userQuoteAsset": "BTC",
+        "userBncLocation": "BINANCE"
+      },
+      "persistSetting": {
+        "favorites": [],
+        "isHideSmallBalance": false,
+        "maskedBalance": false
+      }
+    },
+    "redux": {
+      "adventCalendar": {
+        "showDates": []
+      },
+      "referralLite": {
+        "activity": {}
+      },
+      "global": {
+        "origin": "",
+        "url": "",
+        "path": "",
+        "host": "",
+        "dir": "ltr",
+        "metaData": {
+          "metaTitle": "Binance",
+          "metaKeyword": "Buy/Sell Bitcoin, Ether and Altcoins | Cryptocurrency Exchange | Binance",
+          "metaDescription": "Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the world by volume",
+          "ogImage": ""
+        },
+        "region": "",
+        "isHybrid": false,
+        "withChat": true,
+        "withHeader": true,
+        "withFooter": true,
+        "withCompliance": true,
+        "restrictedBusinessKeys": [],
+        "noticeInfo": null,
+        "pageLayout": 1248
+      },
+      "cookies": {
+        "theme": "dark_midnight",
+        "userPreferredCurrency": "USD_USD"
+      },
+      "products": {
+        "loading": true,
+        "productMap": {},
+        "hotProduct": [],
+        "updateTime": 1785918041745
+      },
+      "ssrStore": {},
+      "userCenter": {
+        "userInfo": {},
+        "pmAccountInfo": {},
+        "languageMap": {},
+        "fiatCurrencyInfo": [],
+        "userPreferredCurrency": {},
+        "fiatCurrency": {
+          "USD": {
+            "pair": "USD_USD",
+            "rate": 1,
+            "symbol": "$"
+          }
+        },
+        "loginStatus": {
+          "isLoading": true
+        },
+        "userContract": {
+          "assetDetails": []
+        },
+        "userQuoteAsset": "BTC",
+        "userBncLocation": "BINANCE"
+      },
+      "persistSetting": {
+        "favorites": [],
+        "isHideSmallBalance": false,
+        "maskedBalance": false
+      }
+    },
+    "i18nResource": {
+      "zh-CN": {
+        "activity-ui": {
+          "common-country-restriction-title": "服务通知",
+          "common-subAccount-restriction-title": "无法参与活动",
+          "common-subAccount-restriction-desc": "您使用的是子账户，因此无法参与活动。请使用主账户参与活动。",
+          "common-country-restriction-homepage": "返回首页",
+          "login": "登录",
+          "trading-competition-ends-in": "距离活动结束还有",
+          "adventcalendar-countdown-days": "天",
+          "adventcalendar-countdown-hours": "小时",
+          "adventcalendar-countdown-minutes": "分",
+          "adventcalendar-countdown-seconds": "秒",
+          "trading-competition-team-dialog-direct-join-title": "您已加入比赛",
+          "trading-competition-team-dialog-direct-join-desc": "组建或加入团队，参与团队赛，争夺更大奖励。",
+          "common-join-team": "加入战队",
+          "trading-competition-team-banners-dialog-title": "创建或加入团队",
+          "trading-competition-team-banners-dialog-desc": "组建或加入战队，参加团队赛。",
+          "trading-competition-team-dialog-create-success-desc": "恭喜！您作为队长的报名申请已获批。",
+          "common-invite-friends": "邀请好友",
+          "common-confirm": "确认",
+          "btn-cancel": "取消",
+          "common-success": "成功",
+          "trading-competition-team-dialog-join-success-desc": "您已成功加入 {{team}}。",
+          "btn-ok": "好的",
+          "trading-competition-team-dialog-no-futures-desc": "请开通币安合约账户参与团赛。",
+          "trading-competition-team-dialog-no-futures-button": "开通合约账户"
+        },
+        "growth-platform": {},
+        "widget-common": {}
+      }
+    },
+    "i18nNamespaces": [
+      "activity-ui",
+      "growth-platform",
+      "widget-common"
+    ],
+    "ssrData": {
+      "lang": "zh-CN",
+      "pathPrefix": "/zh-CN",
+      "level2Domain": "binance.com",
+      "isRegionMode": false
+    }
+  },
+  "basename": "/zh-CN",
+  "runtimeConfig": {
+    "ACCOUNTS_PREFIX": "accounts",
+    "API_ACCELERATE_HOST_PUBLIC": "https://www.binance.com",
+    "API_HOST": "https://www.binance.com",
+    "DEV": "production",
+    "GA_TRACKING_ID": "UA-162512367-1",
+    "GAME_WSS": "wss://nbstream.binance.com/activity/stream",
+    "GTM_TRACKING_ID": "M86QHGF",
+    "I18N_BASE_PRIVATE": "http://bin.bnbstatic.com.s3.ap-northeast-1.amazonaws.com/api/i18n/-/web/cms",
+    "I18N_BASE_PUBLIC": "https://bin.bnbstatic.com/api/i18n/-/web/cms",
+    "I18N_BASE_PREVIEW": "",
+    "I18N_TRACK_APPID": "cc1ljun9gpbp8ciciolg",
+    "I18N_TRACK_HOST": "https://api.saasexch.com",
+    "I18N_TRACK": "true",
+    "INBOX_STREAM_HOST": "wss://bstream.binance.com:9443",
+    "MARKET_STREAM_HOST_TEMPLATE": "wss://nbstream.{{rootDomain}}",
+    "NODE_ENV": "production",
+    "SASS_FORM_CLIENT_ID": "referral",
+    "SASS_FORM_HOST": "https://api.commonservice.io",
+    "SENSORS_SERVER_HOST": "https://api.saasexch.com/bapi/fe/usd/sa?project=binance",
+    "SKIP_LOGIN": "",
+    "STATIC_HOST_SHARE": "https://public.bnbstatic.com",
+    "STATIC_HOST": "https://bin.bnbstatic.com",
+    "THEMIS_ADDRESS": "https://api.saasexch.com/bapi/themis/api/",
+    "THEMIS_API_ADDRESS": "https://api.saasexch.co/bapi/themis/api/",
+    "THEMIS_BINANCE_APP_WEB_AUTH": "NDA0NDcwMTczNjp0UTFVaXBHZndBS3RoVTVzbjRhSUlJbjFHVlZPOFR2SQ==",
+    "THEMIS_BINANCE_GROWTH_APP_AUTH": "MTI4NTE4NDgxMTptd3dXU2x5bkR2dTBkbXpxT1d0NEhta0hhZmg2ZGVmaw==",
+    "THEMIS_ENV": "PROD",
+    "THEMIS_MANUAL_SYNC_STRATEGY": "54",
+    "THEMIS_REFERRAL_APP_AUTH": "NzExMDg2MzE0NTpjUW50Y1hqb1F1S3VPVGMyWVpNWHRxMVdoOFA4VkUwNA==",
+    "THEMIS_REFERRAL_ENTRY_STRATEGY": "127",
+    "USE_MOCK": "",
+    "WS_HOST": "wss://stream.binance.com",
+    "SENTRY_DSN": "https://1e2c0b3bf7d847e2a4e043dc6f0882d4@o529943.ingest.sentry.io/5717112",
+    "SENTRY_ENV": "prod",
+    "DEPLOYMENT_ENV": "prod",
+    "SITE_HOST": "https://www.binance.com",
+    "PM_WS_HOST_TEMPLATE": "wss://fstream.{{rootDomain}}/pm",
+    "UM_WS_HOST_TEMPLATE": "wss://fstream.{{rootDomain}}",
+    "CM_WS_HOST_TEMPLATE": "wss://dstream.{{rootDomain}}",
+    "DOWNLOAD_URL_APPSTORE": "https://apps.apple.com/hk/app/binance/id1436799971?l=en",
+    "RECAPTCHA_BIZ_ID": "growth_campaign_general",
+    "COMMIT_HEAD": "2feca8f45f26974d10c9dd250332da6eced05f72"
+  },
+  "filesByRoutId": {
+    "1947": [
+      "static/chunks/page-1947.32175cc4.js",
+      "static/css/7ef08a82.chunk.css"
+    ],
+    "2423": [
+      "static/chunks/page-2423.a22f183c.js",
+      "static/css/49fd37ec.chunk.css"
+    ],
+    "4038": [
+      "static/chunks/page-4038.542116f0.js",
+      "static/css/1d449dfe.chunk.css"
+    ],
+    "4546": [
+      "static/chunks/page-4546.6ddb7311.js",
+      "static/css/818e8314.chunk.css"
+    ],
+    "6196": [
+      "static/chunks/page-6196.17c47d1d.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "6337": [
+      "static/chunks/layout-6337.3bdceac4.js",
+      "static/css/0680c0d2.chunk.css"
+    ],
+    "7138": [
+      "static/chunks/page-7138.e6552244.js",
+      "static/css/bf554174.chunk.css"
+    ],
+    "7631": [
+      "static/chunks/page-7631.c9706f1c.js",
+      "static/css/04360239.chunk.css"
+    ],
+    "8965": [
+      "static/chunks/page-8965.bd25bcfc.js",
+      "static/css/01623c8f.chunk.css"
+    ],
+    "c3d6": [
+      "static/chunks/layout-c3d6.21d3c633.js",
+      "static/css/451bdb2d.chunk.css"
+    ],
+    "8dfc": [
+      "static/chunks/page-8dfc.4b0409a2.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "dd15": [
+      "static/chunks/page-dd15.8abb9356.js",
+      "static/css/9264fcaa.chunk.css"
+    ],
+    "2b84": [
+      "static/chunks/page-2b84.b45fd79c.js",
+      "static/css/6de95e47.chunk.css"
+    ],
+    "e757": [
+      "static/chunks/page-e757.31aec852.js",
+      "static/css/571c2a72.chunk.css"
+    ],
+    "1e7a": [
+      "static/chunks/page-1e7a.fb310bff.js",
+      "static/css/06b8fe17.chunk.css"
+    ],
+    "3ddf": [
+      "static/chunks/page-3ddf.e993e54b.js",
+      "static/css/53e0305c.chunk.css"
+    ],
+    "2a87": [
+      "static/chunks/page-2a87.828ad7d8.js",
+      "static/css/c84bb1bb.chunk.css"
+    ],
+    "538b": [
+      "static/chunks/page-538b.52a66075.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "ead5": [
+      "static/chunks/page-ead5.c6d076bf.js",
+      "static/css/0ffd1ebe.chunk.css"
+    ],
+    "087c": [
+      "static/chunks/page-087c.ec712ef5.js",
+      "static/css/49fd37ec.chunk.css"
+    ],
+    "f6dd": [
+      "static/chunks/page-f6dd.522cd22c.js",
+      "static/css/e21924c8.chunk.css"
+    ],
+    "4e6a": [
+      "static/chunks/page-4e6a.88e24802.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "f9b4": [
+      "static/chunks/page-f9b4.7201325b.js",
+      "static/css/7ef08a82.chunk.css"
+    ],
+    "9dab": [
+      "static/chunks/page-9dab.dc424dc2.js",
+      "static/css/9264fcaa.chunk.css"
+    ],
+    "5a06": [
+      "static/chunks/page-5a06.2d5bc8b5.js",
+      "static/css/852f59a1.chunk.css"
+    ],
+    "7cf7": [
+      "static/chunks/page-7cf7.bbd32a5d.js",
+      "static/css/191ea2b1.chunk.css"
+    ],
+    "ad60": [
+      "static/chunks/page-ad60.d6af79d0.js",
+      "static/css/21e0968b.chunk.css"
+    ],
+    "48ba": [
+      "static/chunks/page-48ba.3dc0c40c.js",
+      "static/css/571c2a72.chunk.css"
+    ],
+    "fb93": [
+      "static/chunks/page-fb93.2223daaa.js",
+      "static/css/1d449dfe.chunk.css"
+    ],
+    "81a5": [
+      "static/chunks/page-81a5.5d2acf6a.js",
+      "static/css/2ab46546.chunk.css"
+    ],
+    "378b": [
+      "static/chunks/page-378b.61151c20.js",
+      "static/css/d169888e.chunk.css"
+    ],
+    "de25": [
+      "static/chunks/page-de25.7d05345a.js",
+      "static/css/e21924c8.chunk.css"
+    ],
+    "9ad9": [
+      "static/chunks/page-9ad9.f0706da4.js",
+      "static/css/0ffd1ebe.chunk.css"
+    ],
+    "4b9f": [
+      "static/chunks/page-4b9f.9ceec2ee.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "ed5b": [
+      "static/chunks/page-ed5b.fdb03413.js",
+      "static/css/8bfdcc36.chunk.css"
+    ],
+    "f485": [
+      "static/chunks/page-f485.24e03a1a.js",
+      "static/css/9b27c61a.chunk.css"
+    ],
+    "0a1b": [
+      "static/chunks/page-0a1b.80f1448f.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "8a02": [
+      "static/chunks/page-8a02.b1c958e3.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "05eb": [
+      "static/chunks/page-05eb.992ed993.js",
+      "static/css/94e0506a.chunk.css"
+    ],
+    "bb0b": [
+      "static/chunks/page-bb0b.00abf7e2.js",
+      "static/css/8bfdcc36.chunk.css"
+    ],
+    "d02f": [
+      "static/chunks/page-d02f.71bfa9a0.js",
+      "static/css/818e8314.chunk.css"
+    ],
+    "edec": [
+      "static/chunks/page-edec.da55c451.js",
+      "static/css/b0a0ab47.chunk.css"
+    ],
+    "d5ff": [
+      "static/chunks/page-d5ff.f51dd819.js",
+      "static/css/9264fcaa.chunk.css"
+    ],
+    "adde": [
+      "static/chunks/page-adde.eb670d19.js",
+      "static/css/852f59a1.chunk.css"
+    ],
+    "a53f": [
+      "static/chunks/page-a53f.1b816e5b.js",
+      "static/css/04360239.chunk.css"
+    ],
+    "0865": [
+      "static/chunks/page-0865.221fc5b6.js",
+      "static/css/21e0968b.chunk.css"
+    ],
+    "b24a": [
+      "static/chunks/page-b24a.fc1aeaef.js",
+      "static/css/571c2a72.chunk.css"
+    ],
+    "12b7": [
+      "static/chunks/layout-12b7.900b2998.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "feb8": [
+      "static/chunks/page-feb8.44f5af04.js",
+      "static/css/f52b2c6b.chunk.css"
+    ],
+    "431b": [
+      "static/chunks/page-431b.bd38efd6.js",
+      "static/css/e8c7ea8e.chunk.css"
+    ],
+    "a8cf": [
+      "static/chunks/page-a8cf.96a86345.js",
+      "static/css/0ffd1ebe.chunk.css"
+    ],
+    "c2d6": [
+      "static/chunks/page-c2d6.c4d4c3ed.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "2f27": [
+      "static/chunks/page-2f27.fbc6af59.js",
+      "static/css/e1ad3010.chunk.css"
+    ],
+    "30c9": [
+      "static/chunks/page-30c9.77312870.js"
+    ]
+  },
+  "publicPath": "/"
+}

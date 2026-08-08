@@ -1,0 +1,44 @@
+{
+  "code": "000000",
+  "message": null,
+  "data": {
+    "catalogs": [
+      {
+        "catalogId": 93,
+        "catalogName": "币安最新活动",
+        "total": 2113,
+        "articles": [
+          {
+            "id": 281860,
+            "code": "8bd4e92286d8474fa440091eea5672ff",
+            "title": "币安Alpha交易竞赛：交易Power Protocol (POWER) ，分享20万美元等值奖励（2026-08-06）",
+            "type": 1,
+            "releaseDate": 1786015815160
+          },
+          {
+            "id": 281843,
+            "code": "93cc46505d6b46c9be248138b836cb7c",
+            "title": "MMT交易量锦标赛：交易瓜分高达2,000,000 MMT奖池",
+            "type": 1,
+            "releaseDate": 1786006818556
+          },
+          {
+            "id": 281838,
+            "code": "4891daf7e06d49bc93d74f59c586dfc7",
+            "title": "币安学院比特币专题页面：八月完成测试赢取BTC奖励！",
+            "type": 1,
+            "releaseDate": 1786005008150
+          },
+          {
+            "id": 281718,
+            "code": "6e8062c863bd4ddb86a86f5d681f69f2",
+            "title": "BABY交易量锦标赛：交易瓜分高达30,000,000 BABY奖池",
+            "type": 1,
+            "releaseDate": 1785916809736
+          }
+        ]
+      }
+    ]
+  },
+  "success": true
+}

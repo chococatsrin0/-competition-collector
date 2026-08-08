@@ -1,0 +1,121 @@
+[
+  {
+    "url": "https://www.binance.com/bapi/accounts/v1/public/authcenter/auth",
+    "status": 200,
+    "method": "POST",
+    "postData": "{}",
+    "body": "{\"code\":\"100001005\",\"message\":\"请先登录！\",\"success\":false}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/commonConfig",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"keys\":[\"headerDirectMap\"]}",
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"res\":{\"headerDirectMap\":{\"trade\\\\/BTC_USDT\\\\?type=spot\":\"trade\"}}},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":[{\"pair\":\"EUR_USD\",\"rate\":0.8651,\"symbol\":\"€\",\"fullName\":\"Euro\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/EUR.png\",\"displayName\":\"欧元\"},{\"pair\":\"INR_USD\",\"rate\":95.30,\"symbol\":\"₹\",\"fullName\":\"Indian Rupee\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/INR.png\",\"displayName\":\"印度卢比\"},{\"pair\":\"BRL_USD\",\"rate\":5.10,\"symbol\":\"R$\",\"fullName\":\"Brazilian Real\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/BRL.png\",\"displayName\":\"巴西雷亚尔\"},{\"pair\":\"PEN_USD\",\"rate\":3.39,\"symbol\":\"S/.\",\"fullName\":\"Nuevo Sol\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/PEN.png\",\"displayName\":\"秘鲁新索尔\"},{\"pair\":\"CHF_USD\",\"rate\":0.8078,\"symbol\":\"CHF\",\"fullName\":\"Swiss Franc\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/CHF.png\",\"displayName\":\"瑞士法郎\"},{\"pair\":\"KES_USD\",\"rate\":129.36,\"symbol\":\"KSh\",\"fullName\":\"Kenyan Shilling\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/KES.png\",\"displayName\":\"肯尼亚先令\"},{\"pair\":\"USD_KZT\",\"rate\":0.002137,\"symbol\":\"$\",\"fullName\":\"US Dollar\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/USD.png\",\"displayName\":\"美元\"},{\"pair\":\"QAR_USD\",\"rate\":3.64,\"symbol\":\"ر.ق\",\"fullName\":\"Qatari Riyal\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/QAR.png\",\"displayName\":\"卡塔尔里亚尔\"},{\"pair\":\"CNY_USD\",\"rate\":6.75,\"symbol\":\"¥\",\"fullName\":\"Chinese Yuan\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/CNY.png\",\"displayName\":\"人民币\"},{\"pair\":\"PHP_USD\",\"rate\":60.83,\"symbol\":\"₱\",\"fullName\":\"Philippine Peso\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/PHP.png\",\"displayName\":\"菲律宾比索\"},{\"pair\":\"UAH_USD\",\"rate\":44.75,\"symbol\":\"₴\",\"fullName\":\"Ukrainian Hryvnia\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/UAH.png\",\"displayName\":\"乌克兰格里夫纳\"},{\"pair\":\"USD_UAH\",\"rate\":0.02234,\"symbol\":\"$\",\"fullName\":\"US Dollar\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/USD.png\",\"displayName\":\"美元\"},{\"pair\":\"RUB_USD\",\"rate\":81.91,\"symbol\":\"₽\",\"fullName\":\"Russian Ruble\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/RUB.png\",\"displayName\":\"俄罗斯卢布\"},{\"pair\":\"TWD_USD\",\"rate\":32.20,\"symbol\":\"NT$\",\"fullName\":\"New Taiwan dollar\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/TWD.png\",\"displayName\":\"新台币\"},{\"pair\":\"BGN_USD\",\"rate\":1.72,\"symbol\":\"лв\",\"fullName\":\"Bulgarian Lev\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/BGN.png\",\"displayName\":\"保加利亚列弗\"},{\"pair\":\"SAR_USD\",\"rate\":3.75,\"symbol\":\"ر.س\",\"fullName\":\"Saudi Riyal\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/SAR.png\",\"displayName\":\"沙特里亚尔\"},{\"pair\":\"CLP_USD\",\"rate\":912.84,\"symbol\":\"CLP$\",\"fullName\":\"Chilean Peso\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/CLP.png\",\"displayName\":\"智利比索\"},{\"pair\":\"KWD_USD\",\"rate\":0.3088,\"symbol\":\"ك.د\",\"fullName\":\"Kuwaiti Dinar\",\"imageUrl\":\"https://public.bnbstatic.com/image/currencies/KWD.png\",\"displayName\":\"科威特第纳尔\"},{\"pair\":\"COP_USD\",\"rate\":3155.51,\"symbol\":\"CO...[截断]"
+  },
+  {
+    "url": "https://www.binance.com/bapi/accounts/v2/public/account/ip/country-city-short",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"country\":\"TH\",\"city\":\"Bangkok\",\"subDivision\":\"Bangkok\"},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/compliance/v1/friendly/compliance/market/banner-compliance-check",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"pass\":true,\"headBanner\":null,\"footBanner\":null,\"extInfo\":null},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/apex/v1/friendly/apex/marketing/complianceActionCheck?requestLink=www.binance.com%2Fzh-CN%2Fsupport%2Fannouncement",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"pass\":true,\"actionType\":null,\"clientType\":null,\"actionInfo\":null,\"extInfo\":null,\"userCheckResult\":null},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/fe/cms/region/language",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":\"success\",\"success\":true,\"data\":{\"match\":[{\"target\":\"en\",\"mapTo\":\"en\",\"name\":\"English\"},{\"target\":\"zh-CN\",\"mapTo\":\"zh-CN\",\"name\":\"简体中文\"},{\"target\":\"zh-TC\",\"mapTo\":\"zh-TC\",\"name\":\"繁體中文\"},{\"target\":\"ru\",\"mapTo\":\"ru\",\"name\":\"Русский\"},{\"target\":\"es\",\"mapTo\":\"es\",\"name\":\"Español\"},{\"target\":\"es-LA\",\"mapTo\":\"es-LA\",\"name\":\"Español (Latinoamérica)\"},{\"target\":\"fr\",\"mapTo\":\"fr\",\"name\":\"Français\"},{\"target\":\"vi\",\"mapTo\":\"vi\",\"name\":\"Tiếng Việt\"},{\"target\":\"en-TR\",\"mapTo\":\"en-TR\",\"name\":\"English (Türkiye)\"},{\"target\":\"id\",\"mapTo\":\"id\",\"name\":\"Bahasa Indonesia\"},{\"target\":\"uk-UA\",\"mapTo\":\"uk-UA\",\"name\":\"Українська\"},{\"target\":\"ar\",\"mapTo\":\"ar\",\"name\":\"العربية\"},{\"target\":\"en-AU\",\"mapTo\":\"en-AU\",\"name\":\"English (Australia)\"},{\"target\":\"pt-BR\",\"mapTo\":\"pt-BR\",\"name\":\"Português (Brasil)\"},{\"target\":\"en-IN\",\"mapTo\":\"en-IN\",\"name\":\"English (India)\"},{\"target\":\"en-NG\",\"mapTo\":\"en-NG\",\"name\":\"English (Nigeria)\"},{\"target\":\"pt\",\"mapTo\":\"pt\",\"name\":\"Português\"},{\"target\":\"es-MX\",\"mapTo\":\"es-MX\",\"name\":\"Español (México)\"},{\"target\":\"es-AR\",\"mapTo\":\"es-AR\",\"name\":\"Español (Argentina)\"},{\"target\":\"fr-AF\",\"mapTo\":\"fr-AF\",\"name\":\"Français (Afrique)\"},{\"target\":\"en-KZ\",\"mapTo\":\"en-KZ\",\"name\":\"English (Kazakhstan)\"},{\"target\":\"en-ZA\",\"mapTo\":\"en-ZA\",\"name\":\"English (South Africa)\"},{\"target\":\"en-NZ\",\"mapTo\":\"en-NZ\",\"name\":\"English (New Zealand)\"},{\"target\":\"en-BH\",\"mapTo\":\"en-BH\",\"name\":\"English (Bahrain)\"},{\"target\":\"ar-BH\",\"mapTo\":\"ar-BH\",\"name\":\"العربية (البحرين)\"},{\"target\":\"ru-UA\",\"mapTo\":\"ru-UA\",\"name\":\"Русский (Украина)\"},{\"target\":\"de\",\"mapTo\":\"de\",\"name\":\"Deutsch\"},{\"target\":\"kk-KZ\",\"mapTo\":\"kk-KZ\",\"name\":\"Қазақша\"},{\"target\":\"ru-KZ\",\"mapTo\":\"ru-KZ\",\"name\":\"Русский (Казахстан)\"},{\"target\":\"ja\",\"mapTo\":\"ja\",\"name\":\"日本語\"},{\"target\":\"en-AE\",\"mapTo\":\"en-AE\",\"name\":\"English (UAE)\"},{\"target\":\"en-JP\",\"mapTo\":\"en-JP\",\"name\":\"English (Japan)\"},{\"target\":\"lo-LA\",\"mapTo\":\"lo-LA\",\"name\":\"ລາວ\"},{\"target\":\"si-LK\",\"mapTo\":\"si-LK\",\"name\":\"සිංහල\"},{\"target\":\"az-AZ\",\"mapTo\":\"az-AZ\",\"name\":\"Azərbaycan\"},{\"target\":\"uz-UZ\",\"mapTo\":\"uz-UZ\",\"name\":\"Oʻzbekcha\"},{\"target\":\"pt-AO\",\"mapTo\":\"pt-AO\",\"name\":\"Português (Angola)\"},{\"target\":\"my-MM\",\"mapTo\":\"my-MM\",\"name\":\"မြန်မာစာ\"},{\"target\":\"en-PH\",\"mapTo\":\"en-PH\",\"name\":\"English (Philippines)\"}],\"appVersion\":\"1.0.0\",\"region\":\"TH\",\"requestRegion\":\"TH\",\"isLogin\":false,\"regionKeys\":[\"TH\",\"global\"],\"matchedKey\":\"global\"}}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/compliance/v1/friendly/compliance/businessCheckV2?platform=WEB",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"success\":true,\"restriction\":{\"platform\":\"WEB\",\"keys\":[\"futures_next\",\"earn_ai_feed\",\"pay_mobile_topup_widget\",\"earn_RB_DI_feed\",\"web3_guest_ip_block\",\"earn_general_feed\",\"WEB3_PREDICTION\",\"Derivatives_feed\",\"pay_b2c_widget\",\"prediction_extension_market\"],\"allowedKeys\":[\"bwealth_availability_banner\"],\"config\":null}},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/composite/v1/public/growth-activity/loyalty/onboarding/topBarAndTopCTA",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"showTopBar\":false,\"showTopBarNewStyle\":null,\"showTopCTANewStyle\":false,\"topBarContent\":null,\"topCTAContent\":null,\"registerLink\":null},\"success\":true}"
+  },
+  {
+    "url": "https://api.saasexch.co/bapi/fe/themis/v3/expt/query",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"TH\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36\",\"lang\":\"zh-CN\"}",
+    "body": "{\"success\":true,\"code\":\"000000\",\"data\":{\"expts\":[{\"id\":\"2638\",\"type\":\"universal-flow\",\"groupId\":\"2\",\"payload\":{\"new-user-guidance\":\"have-guidance\"},\"targetPage\":null,\"name\":\"New_user_conversion\"},{\"id\":\"3015\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"rewards_hub_flash_voucher\":\"Non-Whitelist\"},\"targetPage\":null,\"name\":\"rewards_hub_flash_voucher\"},{\"id\":\"4153\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"showentry\":\"none\"},\"targetPage\":null,\"name\":\"New_User_Zone_Entry_Point_in_Header_Control\"},{\"id\":\"4752\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"header_nuz_entry\":\"show_entry\"},\"targetPage\":null,\"name\":\"header_nuz_show_hide\"},{\"id\":\"5478\",\"type\":\"universal-flow\",\"groupId\":\"2\",\"payload\":{\"testMyValue\":\"-200\"},\"targetPage\":null,\"name\":\"test-2024-09-06-002\"},{\"id\":\"5882\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"Reward_hub_daily_checkin_26Nov\":\"control\"},\"targetPage\":null,\"name\":\"Reward_hub_daily_checkin_26Nov\"},{\"id\":\"6209\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"tabOrder\":\"exchange_default\"},\"targetPage\":null,\"name\":\"Coin_listv2_tab_order\"},{\"id\":\"6515\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"Rollout_plan\":\"stay_in_h5\"},\"targetPage\":null,\"name\":\"Reward_hub_MP_RollOut_Plan\"},{\"id\":\"2204\",\"type\":\"universal-flow\",\"groupId\":\"2\",\"payload\":{\"control\":\"2\"},\"targetPage\":null,\"name\":\"A-market-page-crypto-info-detail\"},{\"id\":\"3039\",\"type\":\"universal-flow\",\"groupId\":\"2\",\"payload\":{\"market-table\":\"new\"},\"targetPage\":null,\"name\":\"Market-table-UI\"},{\"id\":\"7063\",\"type\":\"universal-flow\",\"groupId\":\"2\",\"payload\":{\"AIMVPTest\":\"AI\"},\"targetPage\":null,\"name\":\"AI_MVP_Cross_Sell_for_CN_and_VN\"}]}}"
+  },
+  {
+    "url": "https://api.saasexch.co/bapi/fe/themis/v3/fg/query",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"TH\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36\",\"lang\":\"zh-CN\"}",
+    "body": "{\"success\":true,\"code\":\"000000\",\"data\":{\"featureGates\":[{\"name\":\"jarvis-b9-homeprompt-rollout\",\"pass\":false,\"data\":\"\",\"id\":10324},{\"name\":\"jarvis-access-scene-1020\",\"pass\":false,\"data\":\"\",\"id\":8984},{\"name\":\"jarvis-basic-rate-limit-bypass\",\"pass\":false,\"data\":\"\",\"id\":9045},{\"name\":\"basic-homepage-prompt-ai-pro-upgrade\",\"pass\":false,\"data\":\"\",\"id\":9337},{\"name\":\"jarvis-ai-internal-whitelist\",\"pass\":false,\"data\":\"\",\"id\":9368},{\"name\":\"jarvis-pro-personalized-homeprompt\",\"pass\":false,\"data\":\"\",\"id\":9743},{\"name\":\"jarvis-weekly-report-push-via-mainagent\",\"pass\":false,\"data\":\"\",\"id\":10016},{\"name\":\"square-author-page-jarvis-entrance\",\"pass\":false,\"data\":\"\",\"id\":9143},{\"name\":\"jarvis-claw-homepage-strategy-case\",\"pass\":false,\"data\":\"\",\"id\":9789},{\"name\":\"jarvis-floating-button\",\"pass\":false,\"data\":\"\",\"id\":6203},{\"name\":\"jarvis-floating-tip-pay-shopping\",\"pass\":false,\"data\":\"\",\"id\":9859},{\"name\":\"chimera-a2ui-dynamic-suggestion\",\"pass\":false,\"data\":\"\",\"id\":10788},{\"name\":\"jarvis-ai\",\"pass\":false,\"data\":\"\",\"id\":5692},{\"name\":\"jarvis-skill-w3w-ai-widget-router\",\"pass\":false,\"data\":\"\",\"id\":9539},{\"name\":\"jarvis-test-fg-in-frontmatter\",\"pass\":false,\"data\":\"\",\"id\":9707},{\"name\":\"jarvis-claw-user\",\"pass\":false,\"data\":\"\",\"id\":8870},{\"name\":\"jarvis-pay-skill-pro-test\",\"pass\":false,\"data\":\"\",\"id\":10049},{\"name\":\"p2p-a2a-v3-switch\",\"pass\":false,\"data\":\"\",\"id\":8575},{\"name\":\"jarvis-homeprompt-ab-0716\",\"pass\":false,\"data\":\"\",\"id\":10396},{\"name\":\"jarvis-v1-to-v2\",\"pass\":false,\"data\":\"\",\"id\":9412},{\"name\":\"claw-homepage-prompt-sub-account-transfer\",\"pass\":false,\"data\":\"\",\"id\":9323},{\"name\":\"jarvis-skill-pay-product-purchase-rollout\",\"pass\":false,\"data\":\"\",\"id\":9763},{\"name\":\"jarvis-xagent-delegate-rollout\",\"pass\":false,\"data\":\"\",\"id\":10623},{\"name\":\"square-detail-page-jarvis-entrance\",\"pass\":false,\"data\":\"\",\"id\":6165},{\"name\":\"p2p-agent-routing-switch\",\"pass\":false,\"data\":\"\",\"id\":7955},{\"name\":\"jarvis-skill-chain-infra-ai-mask-1-rollout\",\"pass\":false,\"data\":\"\",\"id\":10376},{\"name\":\"jarvis-claw-onboarding-entrance\",\"pass\":false,\"data\":\"\",\"id\":8963},{\"name\":\"jarvis-honcho-rollout\",\"pass\":false,\"data\":\"\",\"id\":9724},{\"name\":\"smart-screener-migrate-switch\",\"pass\":false,\"data\":\"\",\"id\":8736},{\"name\":\"jarvis-homepage-router-rollout\",\"pass\":false,\"data\":\"\",\"id\":10046}]}}"
+  },
+  {
+    "url": "https://api.saasexch.co/bapi/fe/themis/v3/expt/query",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"TH\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36\",\"lang\":\"zh-CN\"}",
+    "body": "{\"success\":true,\"code\":\"000000\",\"data\":{\"expts\":[{\"id\":\"8268\",\"type\":\"universal-flow\",\"groupId\":\"1\",\"payload\":{\"homepage_prompt_group\":\"control\"},\"targetPage\":null,\"name\":\"b9-0716-homeprompt\"}]}}"
+  },
+  {
+    "url": "https://api.saasexch.co/bapi/fe/themis/v3/fg/query",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"env\":\"PROD\",\"osVer\":\"1.2\",\"appVer\":\"1.0.0\",\"country\":\"TH\",\"deviceId\":\"some-pc\",\"userId\":\"\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36\",\"lang\":\"zh-CN\"}",
+    "body": "{\"success\":true,\"code\":\"000000\",\"data\":{\"featureGates\":[{\"name\":\"compliance-whitelist-employees\",\"pass\":false,\"data\":\"\",\"id\":6537},{\"name\":\"db-update\",\"pass\":true,\"data\":\"\",\"id\":3012},{\"name\":\"Woo-airdrop\",\"pass\":true,\"data\":\"\",\"id\":2196},{\"name\":\"button-game\",\"pass\":true,\"data\":\"\",\"id\":3184},{\"name\":\"rewards-hub-revamp-ui\",\"pass\":false,\"data\":\"\",\"id\":6777},{\"name\":\"Fully-launch-test\",\"pass\":true,\"data\":\"\",\"id\":2576},{\"name\":\"Trader-league\",\"pass\":true,\"data\":\"\",\"id\":2769},{\"name\":\"2026-football-challenge\",\"pass\":false,\"data\":\"\",\"id\":9945},{\"name\":\"referral-task-test\",\"pass\":true,\"data\":\"\",\"id\":2839},{\"name\":\"red-packet-upload-avatar\",\"pass\":false,\"data\":\"\",\"id\":4578},{\"name\":\"kevin-test\",\"pass\":false,\"data\":\"\",\"id\":3189},{\"name\":\"rewards-hub-miniprogram\",\"pass\":true,\"data\":\"\",\"id\":5572},{\"name\":\"Polyhedra-airdrop\",\"pass\":true,\"data\":\"\",\"id\":2225},{\"name\":\"gray-test\",\"pass\":true,\"data\":\"\",\"id\":3242},{\"name\":\"7ya-referral\",\"pass\":true,\"data\":\"\",\"id\":3220}]}}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/apex/v1/public/apex/marketing/web/commonConfig",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"keys\":[\"com.available.download.domain\",\"com.download.app.link\",\"com.download.app.resetricted.link\"]}",
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"res\":{\"com.download.app.link\":{\"restrictedRegionDownloadUrl\":[],\"defaultDownloadUrl\":{\"appleStore\":\"https://app.appsflyer.com/id1436799971?pid=homepage_download_a&c=new_homepage\",\"iosBeta\":\"\",\"androidApk\":\"https://download.binance.com/pack/BNApp64.apk\",\"googlePlay\":\"https://app.appsflyer.com/com.binance.dev?pid=homepage_download_a&c=new_homepage\",\"macOSIntel\":\"https://download.binance.com/electron-desktop/mac/production/binance.dmg\",\"macOSM1\":\"https://download.binance.com/electron-desktop/mac/production/binance-arm64.dmg\",\"windows\":\"https://download.binance.com/electron-desktop/windows/production/binance-setup.exe\",\"windowsEarlier\":\"https://download.binance.com/electron-desktop/windows/production/binance-setup.exe\",\"linuxDeb\":\"https://download.binance.com/electron-desktop/linux/production/binance-amd64-linux.deb\",\"linuxDebSha\":\"https://download.binance.com/electron-desktop/linux/production/binance-amd64-linux-deb-sha256.txt\",\"linuxRpm\":\"https://download.binance.com/electron-desktop/linux/production/binance-x86_64-linux.rpm\",\"linuxRpmSha\":\"https://download.binance.com/electron-desktop/linux/production/binance-x86_64-linux-rpm-sha256.txt\",\"authIOS\":\"\",\"authAndroid\":\"\",\"downloadApi\":\"https://binance-docs.github.io/apidocs/spot/en\",\"downloadUrlAndroid\":\"https://app.appsflyer.com/com.binance.dev?pid=homepage_download_a&c=new_homepage\",\"downloadUrlIos\":\"https://app.appsflyer.com/id1436799971?pid=homepage_download_a&c=new_homepage\"}},\"com.download.app.resetricted.link\":{\"CN\":{\"ios\":\"https://www.%suffixOrigin%/%locale%/download-guide\",\"android\":\"https://download.bscdnweb.com/pack/BNApp64.apk\"},\"IN\":{\"ios\":\"https://www.%suffixOrigin%/%locale%/download-guide\",\"android\":\"https://download.binance.me/pack/BNApp64.apk\"},\"SY\":{\"ios\":\"https://www.%suffixOrigin%/%locale%/download-guide\",\"android\":\"https://download.binance.com/pack/BNApp64.apk\"}},\"com.available.download.domain\":{\"zh-CN\":{\"tips\":\"扫码下载App或发送任意邮件至download@binance.com自动获取稳定/快速的App下载链接\",\"domain\":\"https://www.bsmkweb.cc\"}}}},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/visible2?deviceId=c04ec71f-edde-42ef-8a1e-631851aef05b",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"visible\":true,\"redirectUrl\":null,\"vip\":null,\"hasGroup\":false},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/visible2?deviceId=c04ec71f-edde-42ef-8a1e-631851aef05b",
+    "status": 200,
+    "method": "GET",
+    "postData": null,
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"visible\":true,\"redirectUrl\":null,\"vip\":null,\"hasGroup\":false},\"success\":true}"
+  },
+  {
+    "url": "https://www.binance.com/bapi/haodesk/v3/friendly/haodesk/std/has-unread",
+    "status": 200,
+    "method": "POST",
+    "postData": "{\"token\":null}",
+    "body": "{\"code\":\"000000\",\"message\":null,\"messageDetail\":null,\"data\":{\"hasUnread\":false,\"chatUnreadCount\":0,\"expire\":true,\"hasGroupUnread\":false,\"groupUnreadCount\":0},\"success\":true}"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "dynamicIds": [],
+  "appState": {
+    "loader": {
+      "dataByRouteId": {
+        "de25": {
+          "origin": "https://www.binance.com",
+          "activityGroup": {
+            "id": 100016874,
+            "code": "spot-altcoin-festival-wave-MMT",
+            "type": "TRADING_COMPETITION_ACTIVITY_GROUP",
+            "status": "PUBLISHED",
+            "publishedTime": 1786010400000,
+            "taskExpiredTime": 1786615200000
+          },
+          "activities": [
+            {
+              "id": 100016875,
+              "code": "cbc683ee0024452eb0889a62c15f904e-1785987955",
+              "type": "TRADING_COMPETITION_ACTIVITY",
+              "status": "PUBLISHED",
+              "publishedTime": 1786010400000,
+              "taskExpiredTime": 1786615200000,
+              "globalContent": {
+                "uri": "Main-Reward",
+                "rewardPoolSetting": {
+                  "rewardPoolStructure": "FIXED_PRIZE_POOL",
+                  "unit": "MMT",
+                  "rewardAmountList": [{"threshold": 0, "amount": 1600000}]
+                },
+                "rankingSetting": {
+                  "rankingType": "TRADING_VOLUME",
+                  "rankingPrizeList": [
+                    {"start": 1, "end": 1, "fixedAmount": 60000, "sharedPercentage": null},
+                    {"start": 2, "end": 2, "fixedAmount": 50000, "sharedPercentage": null},
+                    {"start": 6, "end": 20, "fixedAmount": 200000, "sharedPercentage": null}
+                  ]
+                },
+                "includeSpotTradingPairList": ["MMT/USDC", "MMT/USDT"],
+                "leaderboardQualifyThresholds": 500
+              },
+              "i18nContent": {
+                "title": "主奖池",
+                "timelineContent": {
+                  "show": true,
+                  "timelineList": [
+                    {"title": "开始时间", "subtitle": "2026年08月06日18:00（东八区时间）"},
+                    {"title": "结束时间", "subtitle": "2026年08月13日18:00（东八区时间）"}
+                  ]
+                }
+              }
+            },
+            {
+              "id": 100016877,
+              "code": "805f6909de734ae0a67fc3aa46824070-1785987956",
+              "type": "TRADING_COMPETITION_ACTIVITY",
+              "status": "UNPUBLISHED",
+              "globalContent": {"uri": "Sprint-Reward1"},
+              "i18nContent": {"title": "第一轮限时奖池"}
+            },
+            {
+              "id": 100016879,
+              "code": "642fb7688f5d416093787f011c61d9ca-1785987957",
+              "type": "TRADING_COMPETITION_ACTIVITY",
+              "status": "PUBLISHED",
+              "globalContent": {"uri": "Sprint-Reward2"},
+              "i18nContent": {"title": "第二轮限时奖池"}
+            }
+          ]
+        }
+      }
+    }
+  }
+}

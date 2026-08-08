@@ -1,0 +1,3 @@
+# 生产依赖：Playwright（用于抓取被 AWS WAF 挑战保护的 Binance 活动页）
+# 安装：pip install -r requirements.txt && python -m playwright install chromium
+playwright
