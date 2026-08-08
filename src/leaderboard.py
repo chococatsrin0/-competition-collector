@@ -37,6 +37,16 @@ def _iso(dt: datetime) -> str:
     return dt.astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M:%S %z")
 
 
+def _parse_epoch_ms(ms) -> datetime | None:
+    """解析接口返回的毫秒时间戳（updatedTime），空值返回 None"""
+    if not ms:
+        return None
+    try:
+        return datetime.fromtimestamp(int(ms) / 1000, tz=BEIJING_TZ)
+    except (ValueError, OSError, OverflowError):
+        return None
+
+
 def fetch_leaderboard_page(resource_id: int, page_index: int = 1, page_size: int = LEADERBOARD_PAGE_SIZE) -> dict:
     """请求一页排行榜"""
     data = post_json(
@@ -64,6 +74,8 @@ def collect_leaderboard(
     if not items:
         return []
     total = int(first.get("total") or 0)
+    # 页面级 updatedTime：排行榜数据同步时间（接口对部分场景返回，优先于行级）
+    page_updated_at = _parse_epoch_ms(first.get("updatedTime"))
     page_size = first.get("pageSize") or LEADERBOARD_PAGE_SIZE
     total_pages = max(1, (total + page_size - 1) // page_size) if total else 1
     total_pages = min(total_pages, max_pages)
@@ -90,7 +102,10 @@ def collect_leaderboard(
                     user_name=item.get("nickName") or item.get("userId") or "",
                     trading_volume_usd=float(item.get("tradingVolume") or 0),
                     collected_at=collected_at,
-                    system_updated_at=None,
+                    # 系统更新时间：接口返回的 updatedTime（排行榜数据存在同步延迟），
+                    # 优先级：页面级 > 行级，
+                    # 为空时 CSV 层回退为采集时间
+                    system_updated_at=page_updated_at or _parse_epoch_ms(item.get("updatedTime")),
                 )
             )
     logger.info("  排行榜采集完成: 共 %d 行", len(rows))

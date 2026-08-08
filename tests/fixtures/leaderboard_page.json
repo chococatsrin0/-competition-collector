@@ -7,6 +7,7 @@
       "pageIndex": 1,
       "pageSize": 100,
       "total": 2,
+      "updatedTime": 1786620000000,
       "data": [
         {
           "resourceId": 100016875,
@@ -14,7 +15,7 @@
           "userId": "15****76",
           "sequence": 1,
           "mine": false,
-          "updatedTime": null,
+          "updatedTime": 1786700000000,
           "hitRisk": false,
           "grade": 38254101.76539,
           "nickName": "关山飞渡",
