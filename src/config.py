@@ -21,6 +21,10 @@ COMPETITION_KEYWORDS = ["交易量锦标赛", "交易锦标赛", "Trading Tourna
 RECENT_DAYS = 7
 MAX_COMPETITIONS = 20
 
+# 活动结束后继续采集的宽限期（小时）。活动结束时间 + 该值之后停止采集；
+# 设为 None 表示不按结束时间限制
+COLLECT_GRACE_HOURS = 4
+
 # 活动参与按钮关键词（公告正文按钮文本）
 JOIN_BUTTON_KEYWORDS = [
     "立即参与",

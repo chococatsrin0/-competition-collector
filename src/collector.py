@@ -3,16 +3,24 @@
 from __future__ import annotations
 
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from .activity import resolve_activity_url
-from .config import BEIJING_TZ, RECENT_DAYS
+from .config import BEIJING_TZ, COLLECT_GRACE_HOURS, RECENT_DAYS
 from .csv_writer import write_leaderboard_csv
 from .discover import Competition, discover_competitions
 from .leaderboard import collect_leaderboard
-from .resource import extract_activity_meta
+from .resource import ActivityMeta, extract_activity_meta
 
 logger = logging.getLogger(__name__)
+
+
+def is_expired(meta: ActivityMeta, collected_at: datetime) -> bool:
+    """判断活动是否已结束超过宽限期（默认结束时间 + 4 小时）"""
+    if meta.end_time is None or COLLECT_GRACE_HOURS is None:
+        return False
+    deadline = meta.end_time + timedelta(hours=COLLECT_GRACE_HOURS)
+    return collected_at > deadline
 
 
 def collect_one(competition: Competition, collected_at: datetime | None = None) -> str | None:
@@ -34,6 +42,14 @@ def collect_one(competition: Competition, collected_at: datetime | None = None) 
         meta.start_time,
         meta.end_time,
     )
+    if is_expired(meta, collected_at):
+        logger.warning(
+            "活动已结束超过 %s 小时，跳过采集: %s（结束时间 %s）",
+            COLLECT_GRACE_HOURS,
+            competition.title,
+            meta.end_time,
+        )
+        return None
 
     rows = collect_leaderboard(meta.main_resource_id, collected_at=collected_at)
     logger.info("采集到 %d 条排行榜数据", len(rows))
